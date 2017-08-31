@@ -1,0 +1,12 @@
+com\forever\testautomation\pageobjects\GiftCardDetails.class
+com\forever\testautomation\pageobjects\LoginPage.class
+com\forever\testautomation\pageobjects\ViewCartAndCheckout.class
+com\forever\testautomation\RunnerTest.class
+com\forever\testautomation\steps\NewGiftCardSteps.class
+com\forever\testautomation\steps\LoginSteps.class
+com\forever\testautomation\dao\JDBCSample.class
+com\forever\testautomation\stepdefinitions\GiftCardDefn.class
+com\forever\testautomation\file\PersonalDetails.class
+com\forever\testautomation\hooks\BrowserHooks.class
+com\forever\testautomation\file\FileReading.class
+com\forever\testautomation\stepdefinitions\LoginDefinition.class
