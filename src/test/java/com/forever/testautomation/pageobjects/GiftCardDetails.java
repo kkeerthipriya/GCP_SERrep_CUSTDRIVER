@@ -33,6 +33,9 @@ public class GiftCardDetails {
     @FindBy(how= How.ID, using="senderemail")
     public static WebElement senderEmail;
 
+    @FindBy(how= How.ID, using="advice-validate-email-senderemail")
+    public static WebElement EmailErrText;
+
     @FindBy(how= How.ID, using="cfsenderemail")
     public static WebElement confSendEmail;
 
@@ -52,6 +55,11 @@ public class GiftCardDetails {
 
     @FindBy(how= How.XPATH, using="//*[@class='button btn-cart add-to-cart-button-super']")
     public static WebElement addToCart;
+
+    //html/body/div[2]/div[2]/div[3]/div[2]/div/div/div[4]/div[2]/div[1]/div[2]/strong[2]/span
+
+    @FindBy(how= How.XPATH, using="//html/body/div[2]/div[2]/div[3]/div[2]/div/div/div[4]/div[2]/div[1]/div[2]/strong[2]/span")
+    public static WebElement subTotalGCAmt;
 
     @FindBy(how= How.XPATH, using="//*[@class='button cart-proceed-checkout']")
     public static WebElement proceedCheckOut;

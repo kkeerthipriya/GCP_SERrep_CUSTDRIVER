@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: | k.keerthipriya@gmail.com | kiran143 | Gift Card CA +$75.00 | 1 | Keerthi | k.keerthipriya@gmail.com | Kiran | kiroooos@gmail.com | Happy birthday | 4444333322221111 | 11 | 20 | 123 |
--------------------------------------------------------------------------------
-Tests run: 14, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 92.481 sec - in | k.keerthipriya@gmail.com | kiran143 | Gift Card CA +$75.00 | 1 | Keerthi | k.keerthipriya@gmail.com | Kiran | kiroooos@gmail.com | Happy birthday | 4444333322221111 | 11 | 20 | 123 |

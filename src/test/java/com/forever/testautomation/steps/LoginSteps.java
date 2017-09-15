@@ -22,7 +22,7 @@ public class LoginSteps {
         driver = driver;
     }
     public void openBrowser() {
-        driver.manage().timeouts().implicitlyWait(30,TimeUnit.SECONDS) ;
+        driver.manage().timeouts().implicitlyWait(45,TimeUnit.SECONDS) ;
         driver.get("https://mono.forevernew.com.au/");
     }
 

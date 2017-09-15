@@ -1,12 +1,12 @@
-U:\Keerthi Priya\Forever1\src\test\java\com\forever\testautomation\pageobjects\LoginPage.java
-U:\Keerthi Priya\Forever1\src\test\java\com\forever\testautomation\file\FileReading.java
-U:\Keerthi Priya\Forever1\src\test\java\com\forever\testautomation\dao\JDBCSample.java
-U:\Keerthi Priya\Forever1\src\test\java\com\forever\testautomation\stepdefinitions\LoginDefinition.java
-U:\Keerthi Priya\Forever1\src\test\java\com\forever\testautomation\RunnerTest.java
-U:\Keerthi Priya\Forever1\src\test\java\com\forever\testautomation\pageobjects\ViewCartAndCheckout.java
-U:\Keerthi Priya\Forever1\src\test\java\com\forever\testautomation\steps\NewGiftCardSteps.java
-U:\Keerthi Priya\Forever1\src\test\java\com\forever\testautomation\steps\LoginSteps.java
-U:\Keerthi Priya\Forever1\src\test\java\com\forever\testautomation\hooks\BrowserHooks.java
-U:\Keerthi Priya\Forever1\src\test\java\com\forever\testautomation\pageobjects\GiftCardDetails.java
-U:\Keerthi Priya\Forever1\src\test\java\com\forever\testautomation\stepdefinitions\GiftCardDefn.java
-U:\Keerthi Priya\Forever1\src\test\java\com\forever\testautomation\file\PersonalDetails.java
+U:\Keerthi Priya\Gift card purchase success-No reporting\src\test\java\com\forever\testautomation\RunnerTest.java
+U:\Keerthi Priya\Gift card purchase success-No reporting\src\test\java\com\forever\testautomation\pageobjects\LoginPage.java
+U:\Keerthi Priya\Gift card purchase success-No reporting\src\test\java\com\forever\testautomation\steps\LoginSteps.java
+U:\Keerthi Priya\Gift card purchase success-No reporting\src\test\java\com\forever\testautomation\CustomDriver.java
+U:\Keerthi Priya\Gift card purchase success-No reporting\src\test\java\com\forever\testautomation\util\SerenityVar.java
+U:\Keerthi Priya\Gift card purchase success-No reporting\src\test\java\com\forever\testautomation\stepdefinitions\LoginDefinition.java
+U:\Keerthi Priya\Gift card purchase success-No reporting\src\test\java\com\forever\testautomation\stepdefinitions\GiftCardDefn.java
+U:\Keerthi Priya\Gift card purchase success-No reporting\src\test\java\com\forever\testautomation\hooks\BrowserHooks.java
+U:\Keerthi Priya\Gift card purchase success-No reporting\src\test\java\com\forever\testautomation\steps\NewGiftCardSteps.java
+U:\Keerthi Priya\Gift card purchase success-No reporting\src\test\java\com\forever\testautomation\pageobjects\GiftCardDetails.java
+U:\Keerthi Priya\Gift card purchase success-No reporting\src\test\java\com\forever\testautomation\dao\JDBCSample.java
+U:\Keerthi Priya\Gift card purchase success-No reporting\src\test\java\com\forever\testautomation\file\PersonalDetails.java
