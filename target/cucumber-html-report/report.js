@@ -65,7 +65,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 4722664094,
+  "duration": 7463345000,
   "status": "passed"
 });
 formatter.scenario({
@@ -109,7 +109,7 @@ formatter.match({
   "location": "LoginDefinition.i_am_registered_user()"
 });
 formatter.result({
-  "duration": 2011956973,
+  "duration": 3718406059,
   "status": "passed"
 });
 formatter.match({
@@ -126,18 +126,18 @@ formatter.match({
   "location": "LoginDefinition.i_enter_the_login_details_as_k_keerthipriya_gmail_com_and_kiran(String,String)"
 });
 formatter.result({
-  "duration": 2401029644,
+  "duration": 2805772769,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginDefinition.i_should_login_to_the_forever_new_website()"
 });
 formatter.result({
-  "duration": 28073,
+  "duration": 28677,
   "status": "passed"
 });
 formatter.after({
-  "duration": 47694,
+  "duration": 43166,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -208,7 +208,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 4051919301,
+  "duration": 4518788214,
   "status": "passed"
 });
 formatter.scenario({
@@ -269,14 +269,14 @@ formatter.match({
   "location": "GiftCardDefn.i_open_the_Forever_Page2(String,String)"
 });
 formatter.result({
-  "duration": 5237993598,
+  "duration": 5298382484,
   "status": "passed"
 });
 formatter.match({
   "location": "GiftCardDefn.i_open_gift_card_Page2()"
 });
 formatter.result({
-  "duration": 3449904687,
+  "duration": 7346686107,
   "status": "passed"
 });
 formatter.match({
@@ -301,7 +301,7 @@ formatter.match({
   "location": "GiftCardDefn.i_give_all_giftCard_details2(String,String,String,String)"
 });
 formatter.result({
-  "duration": 671335534,
+  "duration": 1010223089,
   "error_message": "org.junit.ComparisonFailure: expected:\u003c...ter a valid email ad[]ress. For example jo...\u003e but was:\u003c...ter a valid email ad[d]ress. For example jo...\u003e\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat com.forever.testautomation.steps.NewGiftCardSteps.enterGiftCardDetails2(NewGiftCardSteps.java:137)\r\n\tat com.forever.testautomation.stepdefinitions.GiftCardDefn.i_give_all_giftCard_details2(GiftCardDefn.java:65)\r\n\tat ✽.And give all the details with invalid email id \u0027Gift Card CA +$50.00\u0027 and \u00271\u0027 and \u0027Keerthi\u0027 and \u0027k.keerthipriya@gmail\u0027(features/GiftCard.feature:28)\r\n",
   "status": "failed"
 });
@@ -312,7 +312,7 @@ formatter.result({
   "status": "skipped"
 });
 formatter.after({
-  "duration": 41657,
+  "duration": 51014,
   "status": "passed"
 });
 });

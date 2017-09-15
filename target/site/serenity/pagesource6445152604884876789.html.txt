@@ -1,0 +1,2482 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" style="" class="js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths desktop landscape windows windowsnt windowsnt_0 64bit chrome chrome60 chrome60_0 webkit en-us flash js rgba boxshadow opacity cssanimations csstransitions generatedcontent"><head>
+    
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Gift Card  - Womens Fashion | Forever New</title>
+    <meta name="description" content="Complete your Forever New inspired look with our  Gift Card. FREE delivery within Australia for orders over CA$50" />
+    <meta name="keywords" content="Gift Card, " />
+    <meta name="robots" content="INDEX,FOLLOW" />
+            <meta name="viewport" id="fn-viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, maximum-scale=1.0, minimal-ui, user-scalable=no" />
+                        <link rel="shortcut icon" href="https://mono.forevernew.com.au//media/favicon/default/favicon_1.ico" type="image/x-icon" />
+    <link rel="icon" href="https://mono.forevernew.com.au//media/favicon/default/favicon_1.ico" type="image/x-icon" />
+<link rel="alternate" href="https://mono.forevernew.com.au/" hreflang="x-default" />    <!--[if lt IE 7]>
+    <script type="text/javascript">
+        //<![CDATA[
+    var BLANK_URL = 'https://mono.forevernew.com.au//js/blank.html';
+    var BLANK_IMG = 'https://mono.forevernew.com.au//js/spacer.gif';
+//]]>
+</script>
+<![endif]-->
+                <meta property="og:title" content="Gift Card" />
+    <meta property="og:type" content="product" />
+    <meta property="og:image" content="https://mono.forevernew.com.au//media/catalog/product/cache/5/image/1910x1000/9df78eab33525d08d6e5fb8d27136e95/c/a/canada-gift-card-example_outlandia.jpg" />
+    <meta property="og:url" content="https://mono.forevernew.com.au/canada-gift-card-2011458801000" />
+    <meta property="og:description" content="Give the perfect gift that will never go out of style. Indulge your recipient with a delightful surprise delivered straight to her inbox, ready to be redeemed either online or in store. No shipping costs, no waiting for delivery." />
+    <meta property="og:site_name" content="Ever New" />
+<link rel="stylesheet" type="text/css" href="https://mono.forevernew.com.au//js/prototype/windows/themes/forevernew.css" />
+<link rel="stylesheet" type="text/css" href="https://mono.forevernew.com.au//js/calendar/calendar-win2k-1.css" />
+<link rel="stylesheet" type="text/css" href="https://mono.forevernew.com.au//js/prototype/windows/themes/forevernewKK.css" />
+<link rel="stylesheet" type="text/css" href="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/css/icomoon.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/css/styles.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://mono.forevernew.com.au//skin/frontend/enterprise/default/css/widgets.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/css/jquery.slider.min.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/ajaxcartpro/css/styles.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/css/shippingthreshold.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/balance/shoplook/css/style.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/locator/css/locator.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/balance/css/storestock.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/css/gomage/advanced-navigation.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://mono.forevernew.com.au//skin/frontend/enterprise/default/css/customerlocator/styles.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://mono.forevernew.com.au//skin/frontend/enterprise/default/css/warehouse/styles.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/css/checkout.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/css/bx_styles.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/css/jquery.fancybox.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/css/uniform.default.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://mono.forevernew.com.au//skin/frontend/base/default/css/gene/braintree/default.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://mono.forevernew.com.au//skin/frontend/base/default/css/gene/braintree/express.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/css/accordion.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/css/jcarousel.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://mono.forevernew.com.au//skin/frontend/enterprise/default/css/print.css" media="print" />
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="true" type="text/javascript" src="https://sslwidget.criteo.com/event?a=41159&amp;v=4.5.0&amp;p0=e%3Dvp%26p%3D2011458801000&amp;p1=e%3Ddis&amp;adce=1" data-owner="criteo-tag"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M5GTNDH"></script><script src="https://connect.facebook.net/signals/config/248302552289449-123?v=2.7.21" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" src="https://mono.forevernew.com.au//js/prototype/prototype.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//js/lib/ccard.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//js/prototype/validation.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//js/scriptaculous/builder.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//js/scriptaculous/effects.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//js/scriptaculous/dragdrop.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//js/scriptaculous/controls.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//js/varien/js.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//js/varien/form.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//js/varien/menu.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//js/mage/translate.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//js/mage/cookies.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//js/varien/product.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//js/ajax/ajax.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//js/jquery/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//js/jquery/noconflict.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//js/jquery/jquery.dlslider.min.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//js/locator/locator.min.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//js/locator/plugins.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//js/ebizmarts/mailchimp/campaignCatcher.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//js/balance/storestock/storestock.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//js/gomage/advanced-navigation.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//js/touchSwipe/jquery.touchSwipe.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//js/varien/configurable.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//js/calendar/calendar.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//js/calendar/calendar-setup.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//js/gene/braintree/vzero-0.7.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//js/gene/braintree/express.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//js/jquery/jquery-cookie.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//js/varien/weee.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//skin/frontend/enterprise/default/js/scripts.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/js/modernizr.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/js/jquery.slider.min.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/js/sticky-kit.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/js/site.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/js/slick.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/js/slidemenu.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/js/collapse.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/js/popup.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/js/cslider.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/js/theme.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/js/csliderrange.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/js/sticky.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/js/sameheight.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/js/cCookie.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/js/jquery.touchSwipe.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//skin/frontend/enterprise/default/js/enterprise/catalogevent.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//skin/frontend/enterprise/default/js/enterprise/wishlist.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/js/modernizr.min.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/js/jquery.carouFredSel-6.2.1.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/js/forevernew.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/js/jquery.fancybox.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/js/jquery.bxSlider.min.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/js/jquery.elevatezoom.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/js/zoomer.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/js/jquery.uniform.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/js/gigya.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/js/jquery.jcarousel.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/js/custom-accordion.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/js/configurable_list.js"></script>
+<link rel="canonical" href="https://mono.forevernew.com.au/canada-gift-card-2011458801000" />
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="https://mono.forevernew.com.au//skin/frontend/enterprise/default/css/styles-ie.css" media="all" />
+<![endif]-->
+<!--[if lt IE 7]>
+<script type="text/javascript" src="https://mono.forevernew.com.au//js/lib/ds-sleight.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//skin/frontend/enterprise/default/js/iehover-fix.js"></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script type="text/javascript" src="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/js/selectivizr-min.js"></script>
+<script type="text/javascript" src="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/js/ie.js"></script>
+<![endif]-->
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" href="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/css/ie-fix.css" media="all" />
+<![endif]-->
+
+<script type="text/javascript">
+//&lt;![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.mono.forevernew.com.au';
+//]]&gt;
+</script>
+
+<script type="text/javascript">
+//&lt;![CDATA[
+optionalZipCountries = ["FJ","HK","IE","MO","QA","SA","AE","VU"];
+//]]&gt;
+</script>
+<!-- Facebook Ads Extension for Magento -->
+
+                        <script type="text/javascript" src="//static.criteo.net/js/ld/ld.js" async="true"></script>
+                    <!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '248302552289449-123'); // Insert your pixel ID here.
+fbq('track', 'PageView');
+</script>
+<noscript>&lt;img height="1" width="1" style="display:none"src="https://www.facebook.com/tr?id=248302552289449-123&amp;ev=PageView&amp;noscript=1"/&gt;</noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+
+<!-- START Rakuten Marketing Tracking -->
+<script type="text/javascript" src="//intljs.rmtag.com/111375.ct.js"></script>
+<!-- END Rakuten Marketing Tracking -->
+
+<style type="text/css">
+
+
+	/* Smartphones (portrait and landscape) ----------- */
+	@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+		.social-gigya{
+			display: none !important;
+		}
+	}
+
+	   
+	/* Buttons Color */
+	.block-layered-nav .block-content button.button span span{
+    
+   color: #FFFFFF;
+    
+    		background-color: #000000;
+		background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#000000), to(#333333));
+		background-image: -webkit-linear-gradient(top, #000000, #333333);
+		background-image:    -moz-linear-gradient(top, #000000, #333333);
+		background-image:      -o-linear-gradient(top, #000000, #333333);
+		background-image:         linear-gradient(to bottom, #000000, #333333);
+    
+    	}  
+		
+	.gan-loadinfo{
+		
+				border-color:#000000 !important;
+				
+				color:#000000 !important;
+				
+				background-color:#FFFFFF !important;
+				
+				
+				
+				
+	}
+	/* Background Color */
+	.block.block-layered-nav .block-content{
+				background:#FFFFFF;
+			}
+	
+	/* Slider Color */	
+	.narrow-by-list .gan-slider-span{
+				background:#000000;
+			}
+	
+	/* Popup Window Background */
+	#gan-left-nav-main-container filter-note-content-in,
+	#gan-right-nav-main-container .filter-note-content-in,
+	.narrow-by-list .filter-note-content-in{
+				background:#FFFFFF;
+			}
+	
+	/* Help Icon View */
+	#gan-left-nav-main-container .filter-note-handle,
+	#gan-right-nav-main-container .filter-note-handle,
+	.narrow-by-list .filter-note-handle{
+				color:#1F5070;
+			}
+	</style>
+
+<script type="text/javascript">
+//&lt;![CDATA[
+
+
+var GomageNavigation = new GomageNavigationClass({
+						loadimage: 'https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/images/gomage/loadinfo.gif',
+						loadimagealign: 'left',
+			back_to_top_action: '0',
+			gomage_navigation_loadinfo_text: "Loading, please wait...",
+			
+							gomage_navigation_urlhash: false,
+			
+		    			gan_shop_by_area: 0,
+                        help_icon_open_type: 'over',
+            		});
+//]]&gt;	
+</script>    <script>
+        (function (w, d, s, l, i) {
+            if (i == '') return console.log('No GTM ID provided');
+            w[l] = w[l] || [];
+            w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+            var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&amp;l=' + l : '';
+            j.async = true;
+            j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-M5GTNDH');
+    </script>
+<script type="text/javascript">
+window.criteo_q = window.criteo_q || [];
+window.criteo_q.push(  
+        { event: "setAccount", account: 41159 },
+        { event: "viewItem", item: "2011458801000" }
+);
+</script><script src="https://js.braintreegateway.com/js/braintree-2.26.0.min.js"></script>
+<script type="text/javascript">//&lt;![CDATA[
+        var Translator = new Translate([]);
+        //]]&gt;</script>
+
+<script type="text/javascript">
+    (function(){
+        function upDateFNViewport() {
+            var deviceScreen = screen.width;
+            if (window.orientation == 90 || window.orientation == -90) {
+                deviceScreen = screen.height;
+            }
+            var mvp = document.getElementById('fn-viewport');
+            if (deviceScreen &gt;= 768 &amp;&amp; deviceScreen &lt; 980) {
+                mvp.setAttribute('content','width=980, initial-scale=0.78, minimum-scale=0.78, maximum-scale=0.78');
+            } else if (deviceScreen == 1024) {
+                mvp.setAttribute('content','width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0');
+            }
+        }
+        // window.addEventListener("orientationchange", upDateFNViewport);
+        // upDateFNViewport();
+    })();
+</script>
+</head>
+<body class=" catalog-product-view catalog-product-view product-canada-gift-card-2011458801000" data-cookie="">
+<!-- BEGIN GOOGLE ANALYTICS CODEs -->
+<script type="text/javascript">
+//&lt;![CDATA[
+    var _gaq = _gaq || [];
+    
+_gaq.push(['_setAccount', 'UA-XXXXXXXXX-3']);
+_gaq.push(['_trackPageview']);
+    
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+//]]&gt;
+</script>
+<!-- END GOOGLE ANALYTICS CODE -->
+    <noscript>
+        &lt;iframe src="//www.googletagmanager.com/ns.html?id=GTM-M5GTNDH" height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt;
+    </noscript>
+
+<div class="top-promo hidden-sm-down hidden-md-up"><a id="left-top-promo" class="hidden-sm-down" title="New Collection" href="/new-in" target="_self">New Collection: Fall</a> <a id="middle-top-promo" class="second hidden-sm-down" title="Shipping" href="/shipping" target="_self">Free standard delivery for all orders over $100</a> <a id="right-top-promo" class="third hidden-sm-down" title="Girls Getaway" href="/subscribe-now" target="_self">Win a luxury girls' getaway: Enter Here</a><em class="icon-close hidden-md-up"></em></div><div class="wrapper tmp-wrapper" data-slidemenu="{&quot;headerFixedOnFocus&quot;: true}">
+        <noscript>
+        &lt;div class="global-site-notice noscript"&gt;
+            &lt;div class="notice-inner"&gt;
+                &lt;p&gt;
+                    &lt;strong&gt;JavaScript seems to be disabled in your browser.&lt;/strong&gt;&lt;br /&gt;
+                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    </noscript>
+    <div class="tmp-navigation"><div class="tmp-inner">
+    <div class="top-bar">
+        <div class="inner">
+            <script type="text/javascript">
+    var URL = 'https://mono.forevernew.com.au/';
+</script>
+<div id="account-links" class="clearfix">
+                        <ul class="links">
+                                                                                        <li class="logout">
+                                <a class="side-link-mobile" href="https://mono.forevernew.com.au/customer/account/logout/" title="Log Out">
+                                    <i class="icon-user hidden-md-up"></i>
+                                    <span class="text">Log Out</span>
+                                </a>
+                            </li>
+                                                                                                                                                                                    <li class="my-account-toplink">
+                                <a class="side-link-mobile" href="https://mono.forevernew.com.au/customer/account/" title="My Account">
+                                    <i class="icon-user hidden-md-up"></i>
+                                    <span class="text">My Account</span>
+                                </a>
+                            </li>
+                                                                            <li class="hidden-sm-down">
+                    <a title="Subscribe" href="/subscribe-now">Subscribe</a>
+                </li>
+            </ul>
+            <div class="store">
+                <a class="side-link-mobile" href="https://mono.forevernew.com.au/locator/?country=Canada" title="Stores">
+                    <i class="icon-marker"></i>
+                    <span class="text">Stores</span>
+                </a>
+            </div>
+            </div>
+
+<script>
+    document.observe('dom:loaded', function(){
+        //initialize header dropdowns
+        FN.dds = [];
+        $$('.fn-head-dd-trigger:not(.is-initialized)').each( function(el) {
+            FN.dds.push(new FN.Dropdown(el));
+        });
+        if(jQuery('#mini-cart').length){
+            jQuery('#mini-cart').carouFredSel({
+                auto: {
+                    play: false
+                },
+                width: 350,
+                height: "auto",
+                direction: "up",
+                scroll: {
+                    items: 3,
+                    duration: 400
+                },
+                items: { width: 350,
+                    height: 100,
+                    visible: 3,
+                    max: 3,
+                    min: 3
+                },
+                prev: '#prev-cart',
+                next: '#next-cart'
+            });
+        jQuery('#mini-cart').css('height','auto');
+      }
+    });
+</script>        </div>
+    </div>
+    <div class="main-menu-wrap-mobile hidden-md-up">
+        <ul class="main-menu-mobile initCollapse" data-collapse="">
+<li><a href="#!" data-handle="new-in" data-active="">New In<em class="icon-arrow-down"> </em><em class="icon-arrow-up"> </em></a>
+<div class="tmp-sub-nav" data-content="new-in">
+<ul>
+<li><a href="https://mono.forevernew.com.au/new-in/"><span>View All</span></a></li>
+<li><a href="https://mono.forevernew.com.au/womens-clothing/"><span>Clothing</span></a></li>
+<li><a href="https://mono.forevernew.com.au/womens-shoes/"><span>Shoes</span></a></li>
+<li><a href="https://mono.forevernew.com.au/womens-bags/"><span>Bags</span></a></li>
+<li><a href="https://mono.forevernew.com.au/womens-accessories/"><span>Accessories</span></a></li>
+<li><a href="https://mono.forevernew.com.au/online-exclusives/"><span>Online Exclusives</span></a></li>
+<li><a href="https://mono.forevernew.com.au/promotions/"><span>Promotions</span></a></li>
+</ul>
+</div>
+</li>
+<li><a title="Dresses" href="#" data-handle="dresses" data-active="">Dresses<em class="icon-arrow-down"> </em><em class="icon-arrow-up"> </em></a>
+<div class="tmp-sub-nav" data-content="dresses">
+<ul>
+<li><a href="https://mono.forevernew.com.au/womens-dresses/"><span>View All</span></a></li>
+<li><a href="https://mono.forevernew.com.au/evening-dresses/"><span>Evening Dresses</span></a></li>
+<li><a href="https://mono.forevernew.com.au/bridesmaid-dresses/"><span>Bridesmaid Dresses</span></a></li>
+<li><a href="https://mono.forevernew.com.au/day-dresses/"><span>Day Dresses</span></a></li>
+<li><a href="https://mono.forevernew.com.au/formal-dresses/"><span>Formal Dresses</span></a></li>
+</ul>
+</div>
+</li>
+<li><a title="Clothing" href="#" data-handle="clothing" data-active="">Clothing<em class="icon-arrow-down"> </em><em class="icon-arrow-up"> </em></a>
+<div class="tmp-sub-nav" data-content="clothing">
+<ul>
+<li><a href="https://mono.forevernew.com.au/womens-clothing/"><span>View All</span></a></li>
+<li><a href="https://mono.forevernew.com.au/womens-activewear/"><span>Activewear</span></a></li>
+<li><a href="https://mono.forevernew.com.au/womens-jeans/"><span>Jeans</span></a></li>
+<li><a href="https://mono.forevernew.com.au/womens-denim/"><span>Denim</span></a></li>
+<li><a href="https://mono.forevernew.com.au/promotions/"><span>Promotions</span></a></li>
+<li><a href="https://mono.forevernew.com.au/womens-dresses/"><span>Dresses</span></a></li>
+<li><a href="https://mono.forevernew.com.au/womens-jackets-coats/"><span>Jackets &amp; Coats</span></a></li>
+<li><a href="https://mono.forevernew.com.au/womens-knitwear/"><span>Knitwear</span></a></li>
+<li><a href="https://mono.forevernew.com.au/womens-tops/"><span>Tops</span></a></li>
+<li><a href="https://mono.forevernew.com.au/womens-pants/"><span>Pants</span></a></li>
+<li><a href="https://mono.forevernew.com.au/womens-skirts/"><span>Skirts</span></a></li>
+</ul>
+</div>
+</li>
+<li><a title="Accessories" href="#" data-handle="accessories" data-active="">Accessories<em class="icon-arrow-down"> </em><em class="icon-arrow-up"> </em></a>
+<div class="tmp-sub-nav" data-content="accessories">
+<ul data-collapse="" class="initCollapse">
+<li><a title="Accessories" href="#" data-handle="sub-accessories" data-active="">Accessories<em class="icon-arrow-down"> </em><em class="icon-arrow-up"> </em></a>
+<div class="tmp-sub-nav" data-content="sub-accessories">
+<ul>
+<li><a href="https://mono.forevernew.com.au/womens-accessories/"><span>View All</span></a></li>
+<li><a href="https://mono.forevernew.com.au/womens-hats/"><span>Hats</span></a></li>
+<li><a href="https://mono.forevernew.com.au/womens-scarves/"><span>Scarves</span></a></li>
+<li><a href="https://mono.forevernew.com.au/womens-gloves/"><span>Gloves</span></a></li>
+<li><a href="https://mono.forevernew.com.au/womens-lifestyle-homewares/"><span>Lifestyle &amp; Homewares</span></a></li>
+</ul>
+</div>
+</li>
+<li><a title="Jewellery" href="#" data-handle="sub-jewellery" data-active="">Jewellery<em class="icon-arrow-down"> </em><em class="icon-arrow-up"> </em></a>
+<div class="tmp-sub-nav" data-content="sub-jewellery">
+<ul>
+<li><a href="https://mono.forevernew.com.au/womens-jewellery/"><span>View All</span></a></li>
+<li><a href="https://mono.forevernew.com.au/womens-watches/"><span>Watches</span></a></li>
+<li><a href="https://mono.forevernew.com.au/womens-technology/"><span>Technology</span></a></li>
+</ul>
+</div>
+</li>
+<li><a title="Bags" href="#" data-handle="sub-bags" data-active="">Bags<em class="icon-arrow-down"> </em><em class="icon-arrow-up"> </em></a>
+<div class="tmp-sub-nav" data-content="sub-bags">
+<ul>
+<li><a href="https://mono.forevernew.com.au/womens-bags/"><span>View All</span></a></li>
+<li><a href="https://mono.forevernew.com.au/womens-backpacks/"><span>Backpacks</span></a></li>
+<li><a href="https://mono.forevernew.com.au/clutch-bags/"><span>Clutch Bags</span></a></li>
+<li><a href="https://mono.forevernew.com.au/handbags/"><span>Handbags</span></a></li>
+<li><a href="https://mono.forevernew.com.au/laptop-bags/"><span>Laptop Bags</span></a></li>
+<li><a href="https://mono.forevernew.com.au/womens-purses-wallets/"><span>Purses / Wallets</span></a></li>
+</ul>
+</div>
+</li>
+<li><a title="Gifts" href="#" data-handle="sub-gifts" data-active="">Gifts<em class="icon-arrow-down"> </em><em class="icon-arrow-up"> </em></a>
+<div class="tmp-sub-nav" data-content="sub-gifts">
+<ul>
+<li><a href="https://mono.forevernew.com.au/gifts-for-women/"><span>Gifts For Her</span></a></li>
+<li><a href="https://mono.forevernew.com.au/promotions/"><span>Promotions</span></a></li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li><a title="Shoes" href="#" data-handle="shoes" data-active="">Shoes<em class="icon-arrow-down"> </em><em class="icon-arrow-up"> </em></a>
+<div class="tmp-sub-nav" data-content="shoes">
+<ul>
+<li><a href="https://mono.forevernew.com.au/womens-shoes/"><span>View All</span></a></li>
+<li><a href="https://mono.forevernew.com.au/womens-high-heels/"><span>High Heels</span></a></li>
+<li><a href="https://mono.forevernew.com.au/womens-boots/"><span>Boots</span></a></li>
+<li><a href="https://mono.forevernew.com.au/womens-low-heels/"><span>Low Heels</span></a></li>
+<li><a href="https://mono.forevernew.com.au/womens-wedges-platform-shoes/"><span>Wedges &amp; Platforms</span></a></li>
+<li><a href="https://mono.forevernew.com.au/womens-sneakers/"><span>Sneakers</span></a></li>
+<li><span><a href="https://mono.forevernew.com.au/womens-flats-espadrilles/">Flats</a></span></li>
+</ul>
+</div>
+</li>
+
+<!-- Shop Insta --->
+<li><a title="Sale" href="https://mono.forevernew.com.au/shop-insta/">Shop Instagram</a></li>
+<!-- End Shop Insta -->
+
+<!-- Gift Cards --->
+<li><a title="Sale" href="https://mono.forevernew.com.au/canada-gift-card-2011458801000/">Gift Cards</a></li>
+<!-- End Gift Cards -->
+
+<li><a title="Sale" href="#" data-handle="sale" data-active="">Sale<em class="icon-arrow-down"> </em><em class="icon-arrow-up"> </em></a>
+<div class="tmp-sub-nav" data-content="sale">
+<ul>
+<li><a href="https://mono.forevernew.com.au/sale/"><span>View All</span></a></li>
+<li><a href="https://mono.forevernew.com.au/sale-womens-clothing/"><span>Clothing</span></a></li>
+<li><a href="https://mono.forevernew.com.au/sale-womens-shoes/"><span>Shoes</span></a></li>
+<li><a href="https://mono.forevernew.com.au/sale-womens-bags/"><span>Bags</span></a></li>
+<li><a href="https://mono.forevernew.com.au/sale-womens-accessories/"><span>Accessories</span></a></li>
+<li><a href="https://mono.forevernew.com.au/promotions/" rel="nofollow"><span>Promotions</span></a></li>
+</ul>
+</div>
+</li>
+<li><a href="#!">More</a>
+<div class="tmp-sub-nav">
+<ul>
+<li><a title="Latest Collection" href="https://mono.forevernew.com.au/shipping">Shipping</a></li>
+<li><a title="Latest Collection" href="https://mono.forevernew.com.au/returns">Exchanges and returns</a></li>
+<li><a title="Latest Collection" href="https://help.evernew.ca/hc/en-us">Contact Us</a></li>
+</ul>
+</div>
+</li>
+</ul>    </div>
+    <form action="https://mono.forevernew.com.au/newsletter/subscriber/new/" method="post" id="newsletter-validate-mobile-slide" name="" class="form-newsletter hidden-md-up">
+        <p class="label-subcribe">Stay Forever First</p>
+        <div class="form-subscribe">
+            <button type="submit" class="button" title="Join"></button>
+            <div class="v-fix">
+                <input name="email" type="text" id="newsletter-mobile-slide" value="Sign up for email updates" onclick="this.value=='Sign up for email updates'?this.value='':''" onblur="this.value==''?this.value='Sign up for email updates':''" class="input-text required-entry validate-email-subscribe-slide" />
+            </div>
+        </div>
+        <input type="hidden" name="isFromFooter" value="1" />
+    </form>
+    <script type="text/javascript">
+        var newsletterSubscriberFormMobile = new VarienForm('newsletter-validate-mobile-slide');
+        Validation.add('validate-email-subscribe-slide','Please enter a valid email address.&lt;br /&gt; For example johndoe@domain.com.',function(v){
+            return Validation.get('IsEmpty').test(v) || /^([a-z0-9,!\#\$%&amp;amp;'\*\+\/=\?\^_`\{\|\}~-]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+(\.([a-z0-9,!\#\$%&amp;amp;'\*\+\/=\?\^_`\{\|\}~-]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+)*@([a-z0-9-]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+(\.([a-z0-9-]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+)*\.(([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]){2,})$/i.test(v)
+        });
+    </script>
+</div>
+<!-- scroll down top menu features -->
+</div>
+    <div class="page tmp-main-container">
+        <div class="tmp-dummy-layer"></div>
+        <div class="header-container tmp-header">
+    <div class="header-wrapper header">
+        <div class="branding clearfix">
+            <div class="left-nav-mobile hidden-md-up">
+                <span data-nav="tmp-open-left-nav"><i class="icon-hamburger"></i><i class="icon-hamburger_close"></i></span>
+                <i class="icon-search"></i>
+            </div>
+	    <!-- Base: https://mono.forevernew.com.au/ , CURRENT: https://mono.forevernew.com.au/canada-gift-card-2011458801000 -->            <div class="logo-wrap">
+                <a href="https://mono.forevernew.com.au/" title="Ever New" class="logo hidden-sm-down">
+                    <img src="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/images/header_logo.png" alt="Ever New" />
+                </a>
+                <a href="https://mono.forevernew.com.au/" title="Ever New" class="logo hidden-md-up">
+                    <img src="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/images/header_logo_mobile.png" alt="Ever New" />
+                </a>
+                <h2 class="header-title">Shopping Bag</h2>
+            </div>
+            
+                        
+            <div class="right-nav-mobile">
+                <div class="quick-access">
+                    <!-- Search-->
+                    <div class="search-form-top">
+                                                    <div class="header-extras__search">
+<form id="search_mini_form" action="https://mono.forevernew.com.au/catalogsearch/result/" method="get">
+    <span class="close_search hidden-md-up right" style="color: #333;"><i class="icon-cross"></i></span>
+    <div class="form-search clearfix">
+        <button class="form-search__cancel hidden-sm-down" type="button"><i class="icon-cross"></i></button>
+        <input id="search" type="text" name="q" placeholder="Enter keyword or product no." value="" class="input-text" maxlength="128" autocomplete="off" />
+        <button id="clear-input" class="hidden-sm-down" type="reset"><i class="icon-cross"></i></button>
+        <button type="submit" title="Go" class="button"><i class="icon-search"></i></button>
+        <div id="search_autocomplete" class="search-autocomplete" style="display: none;"></div>
+        <script type="text/javascript">
+        //&lt;![CDATA[
+            var searchForm = new Varien.searchForm('search_mini_form', 'search', '');
+            searchForm.initAutocomplete('https://mono.forevernew.com.au/catalogsearch/ajax/suggest/', 'search_autocomplete');
+        //]]&gt;
+        </script>
+    </div>
+</form>
+<div class="header-extras__search-overlay"></div>
+<script>
+    (function ($) {
+        // $('.header-container #search_mini_form').on('mouseover', function (e) {
+        //     $('.header-container .form-search').removeClass('form-closed');
+        // });
+        var $searchInput = $('#search'),
+        $headerContainer = $('.header-container');
+        var ignoredKeyCodes = [
+            17, //ctrl
+            16, //shift
+            37, //left arrow
+            39, //right arrow
+            40, //down arrow
+            38, //up arrow
+            18, //alt
+            91, //windows/super key
+            35, //end
+            36  //home
+        ];
+        $('.header-container #search_mini_form').on('submit', function (e) {
+            if ($('.header-container #search').val().length == 0) {
+                e.preventDefault();
+                $('#search', this).focus();
+            }
+        });
+        $searchInput.on('focus', function () {
+            $headerContainer.addClass('search-active');
+        });
+        // $searchInput.on('blur', function () {
+        //     $(this).closest('.header-container').removeClass('search-active');
+        // });
+        $searchInput.on('keyup', function(e) {
+            var query = $searchInput.val();
+
+            //Check if the key pressed is being ignored
+            if (keyIgnored(e.keyCode)) {
+                return false;
+            }
+
+            // Add the user-typing class
+            var $clearSearchInputButton = $('#clear-input');
+            if (query.length === 0) {
+                $searchInput.removeClass('user-typing');
+                $clearSearchInputButton.off('click');
+            } else if (!$searchInput.hasClass('user-typing')) {
+                $searchInput.addClass('user-typing');
+                $clearSearchInputButton.one('click', handlerClickClearSearchButton);
+            }
+        });
+        $(".form-search__cancel, .header-extras__search-overlay").on('click', closeSearch);
+        if( isTouchDevice() ){
+            $(document).click(function(e) {
+            });
+        }
+        function closeSearch() {
+            $headerContainer.removeClass("search-active");
+            $('html').removeClass('disableScroll');
+        }
+        function handlerClickClearSearchButton() {
+            $searchInput.val('');
+            //Trigger the keyup event so that the click handler is removed
+            $searchInput.trigger('keyup');
+            //Move the focus back to the input
+            $searchInput.focus();
+        }
+        function keyIgnored(keyCode) {
+            return ignoredKeyCodes.indexOf(keyCode) !== -1; // -1 means it's not in the array
+        }
+        function isTouchDevice() {
+            return (('ontouchstart' in window)
+                || (navigator.MaxTouchPoints &gt; 0)
+                || (navigator.msMaxTouchPoints &gt; 0));
+        }
+    })(jQuery);
+</script>
+</div>                                            </div>
+                                        <div id="wishlist-container">    <div class="block block-wishlist">
+        <div class="block-title">
+            <strong class="" id="top-wishlist" onclick="window.location.href='/wishlist/'">
+                <i class="icon-heart"></i>
+                <label class="hidden-sm-down">Wishlist</label>
+            </strong>
+        </div>
+    </div>
+</div>
+                    <div id="cart_sidebar">
+<div class="top-cart">
+
+    <div class="block-title no-items">
+        <strong id="cartHeader" onclick="window.location.href='https://mono.forevernew.com.au/checkout/cart/'" class="hover-pointer">
+            <i class="icon-cart"></i>
+            <label class=""><span class="hidden-sm-down">Bag</span></label>
+        </strong>
+    </div>
+        <div id="topCartContent" class="fn-head-dd fn-head-dd-empty" style="display: none;">
+        <div class="block-content shadown">
+            <div class="triangle"></div>
+            <div class="inner-wrapper">                    <div class="block-subtitle">
+                        <span class="close-btn close">Close</span>
+                        <h2 class="my-shopping">My Shopping Bag</h2>
+                        <p class="msg">
+                            Your shopping bag is empty                        </p>
+                    </div>
+                                </div>
+        </div>
+    </div>
+        <div class="sidebar-loading" style="display: none"><img src="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/images/bx_loader.gif" /></div>
+</div>
+</div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="nav-container">
+        <div class="main-menu-wrap">
+            <div class="main-menu-inner">
+                <ul class="main-menu">
+                    <!-- New In Menu -->
+                    <li class="mega drop menu_left clearfix">
+                        <a class="drop" href="https://mono.forevernew.com.au/new-in">New In <i class="icon-down hidden-sm-up"></i><i class="icon-up hidden-sm-up"></i></a>
+                        <div class="menu-black-triangle"></div>
+                        <div class="dropdown_new_in dropdown_content">
+                            <div class="col_1">
+<ul>
+<li><a style="text-transform: uppercase;" href="/new-in">View All</a></li>
+<li> </li>
+<li><a href="/womens-clothing">Clothing</a></li>
+<li><a href="/womens-shoes">Shoes</a></li>
+<li><a href="/womens-bags">Bags</a></li>
+<li><a href="/womens-accessories">Accessories</a></li>
+<li><a href="/womens-workwear-edit">The Workwear Edit</a></li>
+<!-- <li><a href="/promotions">Promotions</a></li> --></ul>
+<a href="/new-in"><img style="position: absolute; top: 39px; left: 330px; max-width: none;" src="https://mono.forevernew.com.au//media/wysiwyg/Mega_Nav/MegaNav_Getaway_v2.png" alt="" /></a></div>                        </div>
+                    </li>
+                    <!-- Dresses Menu -->
+                    <li class="mega drop menu_left clearfix">
+                        <a class="drop" href="https://mono.forevernew.com.au/womens-dresses">Dresses <i class="icon-down hidden-sm-up"></i><i class="icon-up hidden-sm-up"></i></a>
+                        <div class="menu-black-triangle" style="left: 20px;"></div>
+                        <div class="dropdown_dress dropdown_content">
+                            <div class="col_1">
+<ul style="width: 600px;">
+<li><a style="text-transform: uppercase;" href="/womens-dresses">View All</a></li>
+<li> </li>
+<li> </li>
+<li><a href="/evening-dresses">Evening Dresses</a></li>
+<li><a href="/formal-dresses">Formal Dresses</a></li>
+<li> </li>
+<li><a href="/day-dresses">Day Dresses</a></li>
+<li><a href="/bridesmaid-dresses">Bridesmaid Dresses</a></li>
+<li> </li>
+<li><a href="/maxi-dresses">Maxi Dresses</a></li>
+<li><a href="/party-dresses">Party Dresses</a></li>
+<li> </li>
+<li> </li>
+<!-- <li><a href="/maxi-dresses">Maxi Dresses</a></li> -->
+<li> </li>
+<li> </li>
+<!-- <li><a href="/party-dresses">Party Dresses</a></li> -->
+<li> </li>
+<li> </li>
+</ul>
+<a href="/day-dresses"><img style="position: absolute; top: 39px; left: 589px; max-width: none;" src="https://mono.forevernew.com.au//media/wysiwyg/Mega_Nav/MegaNav4.png" alt="" /></a></div>                        </div>
+                    </li>
+                    <!-- Clothing Menu -->
+                    <li class="mega drop menu_left clearfix">
+                        <a class="drop" href="https://mono.forevernew.com.au/womens-clothing">Clothing <i class="icon-down hidden-sm-up"></i><i class="icon-up hidden-sm-up"></i></a>
+                        <div class="menu-black-triangle" style="left: 28px;"></div>
+                        <div class="dropdown_clothing dropdown_content">
+                            <div class="col_1">
+<ul>
+<li><a style="text-transform: uppercase;" href="/womens-clothing">View All</a></li>
+<li> </li>
+<li> </li>
+<li> </li>
+<li><a href="/womens-activewear">Activewear</a></li>
+<li><a href="/womens-knitwear">Knitwear</a></li>
+<li> </li>
+<li> </li>
+<li><a href="/womens-denim">Denim</a></li>
+<li><a href="/womens-pants">Pants</a></li>
+<li> </li>
+<li> </li>
+<li><a href="/womens-dresses">Dresses</a></li>
+<li><a href="/womens-shorts">Shorts</a></li>
+<li> </li>
+<li> </li>
+<li><a href="/womens-jackets-coats">Jackets &amp; Coats</a></li>
+<li><a href="/womens-skirts">Skirts</a></li>
+<li> </li>
+<li> </li>
+<li><a href="/womens-jeans">Jeans</a></li>
+<li><a href="/womens-tops">Tops</a></li>
+<!-- <li><a href="/promotions">Promotions</a></li> -->
+<li> </li>
+<li> </li>
+<li><a href="/womens-jumpsuits-playsuits">Jumpsuits</a></li>
+<!-- <li><a href="/womens-jeans">Jeans</a></li> --> <!-- MOVED UP -->
+<li> </li>
+<li> </li>
+<li> </li>
+</ul>
+<a href="/day-dresses"><img style="position: absolute; top: 39px; left: 589px; max-width: none;" src="https://mono.forevernew.com.au//media/wysiwyg/Mega_Nav/MegaNav5.png" alt="" /></a></div>                        </div>
+                    </li>
+                    <!-- Accessories Menu-->
+                    <li class="mega drop menu_left clearfix">
+                        <a class="drop" href="https://mono.forevernew.com.au/womens-accessories">Accessories <i class="icon-down hidden-sm-up"></i><i class="icon-up hidden-sm-up"></i></a>
+                        <div class="menu-black-triangle" style="left: 40px;"></div>
+                        <div class="dropdown_bags dropdown_content">
+                                                    </div>
+                    </li>
+                    <!-- Bags Menu-->
+                    <li class="mega drop menu_left clearfix">
+                        <a class="drop" href="https://mono.forevernew.com.au/womens-bags">Bags <i class="icon-down hidden-sm-up"></i><i class="icon-up hidden-sm-up"></i></a>
+                        <div class="menu-black-triangle" style="left: 40px;"></div>
+                        <div class="dropdown_bags dropdown_content">
+                            <div class="col_1">
+<ul style="min-width: 800px; margin-left: -215px;">
+<li><a class="strong" style="text-transform: uppercase;" href="/womens-accessories">Accessories</a></li>
+<li><a class="strong" style="text-transform: uppercase;" href="/womens-jewellery">Jewellery</a></li>
+<li><a class="strong" style="text-transform: uppercase;" href="/womens-bags">Bags</a></li>
+<li><a class="strong" style="text-transform: uppercase;" href="/gifts-for-women">Gifts</a></li>
+<!-- NEWLINE -->
+<li><a style="text-transform: uppercase;" href="/womens-accessories">View All</a></li>
+<li><a style="text-transform: uppercase;" href="/womens-jewellery">View All</a></li>
+<li><a style="text-transform: uppercase;" href="/womens-bags">View All</a></li>
+<li><a style="text-transform: uppercase;" href="/gifts-for-women">View All</a></li>
+<!-- NEWLINE -->
+<li><a href="/womens-hats">Hats</a></li>
+<li><a href="/womens-watches">Watches</a></li>
+<li><a href="/clutch-bags">Clutch Bags</a></li>
+<li><a href="/gifts-for-women">Gifts For Her</a></li>
+<!-- NEWLINE -->
+<li><a href="/womens-hosiery">Tights &amp; Hosiery</a></li>
+<li> </li>
+<li><a href="/handbags">Handbags</a></li>
+<li><a href="/womens-lifestyle-homewares">Lifestyle &amp; Homewares</a></li>
+<!-- NEWLINE -->
+<li><a href="/womens-scarves">Scarves</a></li>
+<li> </li>
+<li><a href="/clutch-bags">Clutches</a></li>
+<li><a href="/womens-technology">Technology</a></li>
+<!-- NEWLINE -->
+<li><a href="/womens-gloves">Gloves</a></li>
+<li> </li>
+<li><a href="/womens-backpacks">Backpacks</a></li>
+<li> </li>
+<!-- NEWLINE -->
+</ul>
+<!-- <a href="/winter-accessories"><img style="position: absolute; top: 39px; left: 564px;" src="https://mono.forevernew.com.au//media/wysiwyg/CMS/Homepage/DL_Winter_Accessories_MagaNav_020616.png" alt="" /></a> -->
+</div>                        </div>
+                    </li>
+                    <!-- Shoes Menu-->
+                    <li class="mega drop menu_left clearfix">
+                        <a class="drop" href="https://mono.forevernew.com.au/womens-shoes">Shoes <i class="icon-down hidden-sm-up"></i><i class="icon-up hidden-sm-up"></i></a>
+                        <div class="menu-black-triangle" style="left: 14px;"></div>
+                        <div class="dropdown_shoes dropdown_content">
+                            <div class="col_1">
+<ul style="position: relative; right: 25px;">
+<li><a style="text-transform: uppercase;" href="/womens-shoes">View All</a></li>
+<li> </li>
+<li><a href="/womens-high-heels">High Heels</a></li>
+<li><a href="/womens-boots">Boots</a></li>
+<li><a href="/womens-low-heels">Low Heels</a></li>
+<li><a href="/wedges-platform-shoes">Wedges &amp; Platforms</a></li>
+<li><a href="/womens-sneakers">Sneakers</a></li>
+<li><a href="/womens-flats-espadrilles">Flats</a></li>
+</ul>
+<!-- <a href="/womens-sneakers"><img style="position: absolute; top: 39px; left: 361px;" src="https://mono.forevernew.com.au//media/wysiwyg/CMS/Homepage/DL_Sneakers_MagaNav_020616.png" alt="" /></a> -->
+</div>                        </div>
+                    </li>
+                    <!-- Trend Menu
+                        commented for https://ecargo.atlassian.net/browse/FNC-508
+                    -->
+                    <!-- <li class="mega drop menu_left clearfix">
+                        <a class="drop" href="https://mono.forevernew.com.au/shop-by-trend">Trend <i class="icon-down hidden-sm-up"></i><i class="icon-up hidden-sm-up"></i></a>
+                        <div class="menu-black-triangle" style="left: 13px;"></div>
+                        <div class="dropdown_collections dropdown_content">
+                                                    </div>
+                    </li> -->
+                    
+                    <!-- Shop Insta -->
+                    <li class="mega drop menu_left clearfix">
+                        <a class="drop" href="https://mono.forevernew.com.au/shop-insta">Shop Insta <i class="icon-down hidden-sm-up"></i><i class="icon-up hidden-sm-up"></i></a>
+                    </li>
+                    
+                    <!-- Sale Menu-->
+                    <li class="mega drop menu_left clearfix">
+                        <a class="drop" href="https://mono.forevernew.com.au/sale">Sale <i class="icon-down hidden-sm-up"></i><i class="icon-up hidden-sm-up"></i></a>
+                        <div class="menu-black-triangle" style="left: 6px;"></div>
+                        <div class="dropdown_sale dropdown_content">
+                            <div class="col_1">
+<ul>
+<li><a style="text-transform: uppercase;" href="/sale">View All</a></li>
+<li><a href="/sale-clothing">Clothing</a></li>
+<li><a href="/sale-shoes">Shoes</a></li>
+<li><a href="/sale-bags">Bags</a></li>
+<li><a href="/sale-accessories">Accessories</a></li>
+<li><a href="/sale-scarves">Scarves</a></li>
+<li><a href="/promotions" rel="nofollow">Promotions</a></li>
+<li> </li>
+</ul>
+<!-- <a href="/sale-shoes"><img style="position: absolute; top: 39px; right: 361px;" src="https://mono.forevernew.com.au//media/wysiwyg/CMS/Homepage/DL_Further_25__Off_MagaNav_020616.png" alt="" /></a> --></div>                        </div>
+                    </li>
+                                    </ul>
+            </div>
+        </div>
+    </div>
+    <!-- scroll down top menu features -->
+<script>
+    jQuery(document).ready(function(){
+        menu();
+        fixedTopMenu();
+        jQuery(window).resize(function() {
+            menu();
+        });
+        //scroll down
+        // if(jQuery(window).width() &gt; 1024){
+            //jQuery('div.header-container').after(jQuery('#scroll-down-menu-show'));
+            jQuery(window).scroll(function() {
+                fixedTopMenu();
+            });
+        // }
+    });
+    function fixedTopMenu() {
+        var y = jQuery(window).scrollTop();  //your current y position on the page
+        if(y &gt; jQuery('.branding').offset().top + jQuery('.branding').height()){
+            jQuery('.wrapper .nav-container').addClass('fixed-desktop');
+        }else{
+            jQuery('.wrapper .nav-container').removeClass('fixed-desktop');
+        }
+    }
+    function menu() {
+        if(jQuery(window).width() &gt; 767){
+            var ulMenu = jQuery('.wrapper .main-menu-wrap').position();
+            jQuery('.wrapper .main-menu-wrap li').hover(function(){
+                var divLeft = jQuery(this).position().left - jQuery('.wrapper .main-menu-wrap').position().left;
+                jQuery(this).find('.dropdown_content')
+                    .width(document.body.clientWidth)
+                    .css({
+                        left:  -divLeft + "px"
+                    }).addClass('mega-menu-top')
+                    .show();
+                jQuery(this).find('.dropdown_content div').css({
+                    position:'absolute',
+                    top: "5px",
+                    left:  divLeft-10+"px"
+                });
+                jQuery(this).find('.menu-black-triangle').show();
+            },function(){
+                jQuery(this).find('.menu-black-triangle').removeAttr('style');
+                jQuery(this).find('.dropdown_content').removeAttr('style').removeClass('mega-menu-top');
+                jQuery(this).find('.dropdown_content div').removeAttr('style');
+            });
+        }
+        else {
+            jQuery('.wrapper .main-menu-wrap li').off('hover');
+            jQuery(this).find('.dropdown_content div').removeAttr('style');
+            jQuery(this).find('.menu-black-triangle').removeAttr('style');
+            jQuery(this).find('.dropdown_content').removeAttr('style').removeClass('mega-menu-top');
+        }
+    }
+    // function isTouchDevice() {
+    //     return (('ontouchstart' in window)
+    //         || (navigator.MaxTouchPoints &gt; 0)
+    //         || (navigator.msMaxTouchPoints &gt; 0));
+    // }
+</script>
+</div>
+
+        <div class="tmp-inner">
+            <div class="widget widget-static-block"><div class="top-promo hidden-sm-down"><a id="left-top-promo" class="hidden-sm-down" title="New Collection" href="/new-in" target="_self">New Collection: Fall</a> <a id="middle-top-promo" class="second hidden-sm-down" title="Shipping" href="/shipping" target="_self">Free standard delivery for all orders over $100</a> <a id="right-top-promo" class="third hidden-sm-down" title="Girls Getaway" href="/subscribe-now" target="_self">Win a luxury girls' getaway: Enter Here</a><em class="icon-close hidden-md-up"></em></div>
+<!--<div class="top-promo" style="background-color: #562b3e; color: #ffe9f3; text-transform: uppercase; line-height: 36px; letter-spacing: 2px; font-size: 12px;">ONLINE EXCLUSIVE - 20% OFF SITEWIDE* FOR 24 HOURS ONLY -  <span id="promo_top" style="color: #ffffff;">&nbsp;</span> HOURS TO GO</div>-->
+<!--<div class="top-promo" style="background-color: #562b3e; color: #ffe9f3; text-transform: uppercase; line-height: 36px; letter-spacing: 2px; font-size:12px">ONLINE EXCLUSIVE - 20% OFF SITEWIDE* NOW EXTENDED UNTIL 9AM AEST FRIDAY 22ND APRIL 2016</div>-->
+<!--<div class="top-promo" style="background-color: #ECDCDD; color: #726A6A; text-transform: uppercase; line-height: 36px; letter-spacing: 2px;">VOGUE ONLINE SHOPPING NIGHT - ENJOY 20% OFF FULL PRICE STYLES. 12 HOURS ONLY.  <span id="promo_top" style="color: #f27281;">&nbsp;</span> to go</div>-->
+<!--<div class="top-promo" style="background-color: #ECDCDD; color: #726A6A; text-transform: uppercase; line-height: 36px; letter-spacing: 2px;">25% OFF SITEWIDE* + FREE Standard Delivery On All Orders  <span id="promo_top" style="color: #f27281;">&nbsp;</span> to go</div>-->
+<!--<div class="top-promo" style="background-color: #562b3e; color: #ffe9f3; text-transform: uppercase; line-height: 36px; letter-spacing: 2px; font-size:12px">ONLINE EXCLUSIVE - 20% OFF ALL FULL PRICE STYLES - <span id="cd"><span id="cd-hour"></span>:<span id="cd-min"></span>:<span id="cd-second"></span></span> TO GO</div>-->
+<script type="text/javascript">// &lt;![CDATA[
+(function(){
+    var endingTime = new Date("Thu May 12 00:00:00 +1000 2016");
+    var cdEle = document.getElementById('cd');
+    var hourEle = document.getElementById('cd-hour');
+    var minEle = document.getElementById('cd-min');
+    var secondEle = document.getElementById('cd-second');
+    if (cdEle == null || hourEle == null || minEle == null || secondEle == null) {
+        return 1;
+    }
+
+    function zeroFill( number, width )
+    {
+        width -= number.toString().length;
+        if ( width &gt; 0 )
+        {
+            return new Array( width + (/\./.test( number ) ? 2 : 1) ).join( '0' ) + number;
+        }
+        return number + "";
+    }
+
+    function getTimeRemaining(endtime) {
+        var t = Date.parse(endtime) - Date.parse(new Date());
+        var seconds = Math.floor( (t/1000) % 60 );
+        var minutes = Math.floor( (t/1000/60) % 60 );
+        var hours = Math.floor( (t/(1000*60*60)) % 24 );
+        var days = Math.floor( t/(1000*60*60*24) );
+        return {
+            'total': t,
+            'days': days,
+            'hours': hours,
+            'minutes': minutes,
+            'seconds': seconds
+        };
+    }
+
+    function renderCountDown() {
+        var t = getTimeRemaining(endingTime);
+        hourEle.innerHTML = zeroFill(t.hours, 2);
+        minEle.innerHTML = zeroFill(t.minutes, 2);
+        secondEle.innerHTML = zeroFill(t.seconds, 2);
+        if(t.total&lt;=0){
+            cdEle.innerHTML = "";
+            clearInterval(timeinterval);
+        }
+    }
+
+    renderCountDown();
+    var timeinterval = setInterval(renderCountDown,1000);
+})();
+// ]]&gt;</script></div>
+            <div id="global_messages"></div>
+<script type="text/javascript">
+biAjax.addView(new Balance.AjaxView('global_messages','type=page%2Fhtml&amp;template=&amp;name=global_messages&amp;params%5Bid%5D=94952&amp;controller=product&amp;module=catalog&amp;action=view&amp;pass_params=0', 0));
+</script>
+            <div class="breadcrumbs">
+    <ul vocab="http://schema.org/" typeof="BreadcrumbList">      
+                                        <li class="home" property="itemListElement" typeof="ListItem">
+                            <a href="https://mono.forevernew.com.au/" title="Go to Home Page" property="item" typeof="WebPage">
+                    <span property="name">Home</span>
+                </a>
+                            <meta property="position" content="0" />
+
+                            <span class="crumb-separator"> / </span>
+                                
+            </li>
+                                <li class="product" property="itemListElement" typeof="ListItem">
+                                
+                <a href="https://mono.forevernew.com.au:8080/canada-gift-card-2011458801000" title="" property="item" typeof="WebPage">
+                    <span property="name">Gift Card</span>
+                </a>
+                            <meta property="position" content="1" />
+
+                                
+            </li>
+            </ul>
+</div>
+            <div class="main col1-layout">
+                                <div class="col-main">
+                    
+    <div class="cover-image"><div class="text-heading">
+                <h1>BUY A GIFT CARD</h1>
+        <p>The perfect gift that will never go out of style. Indulge your recipient with a delightful surprise delivered straight to her inbox.</p>
+    </div>
+<div class="img-heading">
+            <p><img src="https://mono.forevernew.com.au//media/wysiwyg/_9F914D7A64EF99D00E594C1777B88F31F44A427BF53B0C63D5_pimgpsh_fullsize_distr.jpg" alt="" /> </p>        <!--<img src="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/images/acount-banner.jpg">-->
+    </div></div>
+<style>
+    div.find-in-store
+    {
+        position: relative;
+    }
+</style>
+
+<script type="text/javascript">
+    jQuery(document).ready(function(){
+        var hash = window.location.hash.substring(1);
+        if(hash === 'product_tabs_tabreviews') {
+            jQuery('#product-tabs ul#tabs li#product_tabs_tabreviews').click();
+        }
+        jQuery('.pro-goto-review-form').click(function(){
+            jQuery('#product-tabs ul#tabs li#product_tabs_tabreviews').click();
+        })
+    })
+</script>
+
+<script type="text/javascript">
+    var optionsPrice = new Product.OptionsPrice({"productId":"94952","priceFormat":{"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":1},"includeTax":"false","showIncludeTax":false,"showBothPrices":false,"productPrice":0,"productOldPrice":0,"priceInclTax":0,"priceExclTax":0,"skipCalculate":1,"defaultTax":0,"currentTax":0,"idSuffix":"_clone","oldPlusDisposition":0,"plusDisposition":0,"plusDispositionTax":0,"oldMinusDisposition":0,"minusDisposition":0,"tierPrices":[],"tierPricesInclTax":[]});
+</script>
+
+<div id="messages_product_view">
+    </div>
+<div id="messages_product_view_mobile">
+    <div class="messages-content"><span>Item added to bag</span></div>
+</div>
+
+<div class="product-view  gift-product-view">
+        <div class="product-essential clearfix">
+            <!-- media-->
+            <div class="product-img-box clearfix">
+                                    <div id="media-gallery-container">
+                        <div class="prod-gift">
+                            
+<script type="text/javascript">
+    function isTouchDevice() {
+        return (('ontouchstart' in window)
+            || (navigator.MaxTouchPoints &gt; 0)
+            || (navigator.msMaxTouchPoints &gt; 0));
+    }
+    jQuery(document).ready(function(){
+        jQuery('#media-gallery-container').find('[data-cslider]').cslider('init');
+        jQuery('#media-gallery-container').find('[data-popup]').popup();
+        /*
+        var mouseX;
+        var mouseY;
+        jQuery(document).mousemove( function(e) {
+            //  mouseX = e.pageX - 360;
+            //mouseY = e.pageY - 205;
+        });
+        jQuery(".product-main-image").mousemove(function(ev){
+            var el = jQuery(this);
+            mouseX = ev.pageX - 60 - el.offset().left;
+            mouseY = ev.pageY + 20 - el.offset().top;
+        });
+        */
+    });
+    /*
+    if(isTouchDevice()){
+        jQuery(".ajax-fancybox").fancybox(
+            {
+                padding : 0,
+                hideOnContentClick : true,
+                width:435,
+                height:620,
+                //autoDimensions: true,
+                type : 'iframe',
+                showTitle: false,
+                scrolling: 'no',
+                autoSize    : false,
+                closeClick  : false,
+                openEffect  : 'none',
+                closeEffect : 'none'
+            }
+        );
+    }else{
+        jQuery(".ajax-fancybox").fancybox(
+            {
+                padding : 0,
+                hideOnContentClick : true,
+                width:876,
+                height:1240,
+                //autoDimensions: true,
+                type : 'iframe',
+                showTitle: false,
+                scrolling: 'no',
+                autoSize    : false,
+                closeClick  : false,
+                openEffect  : 'none',
+                closeEffect : 'none'
+            }
+        );
+    }
+    function showZoom(id){
+        jQuery('#fancybox'+id).trigger('click');
+    }
+    */
+</script>
+
+
+
+    <div class="media-mainImage-container 345">
+        <div class="cslider syncing-slider no-slide" data-cslider="{&quot;type&quot;: &quot;syncing&quot;, &quot;navFor&quot;: &quot;.slider-nav&quot;, &quot;view&quot;: &quot;true&quot;}">
+            <div class="slick slider-thumb slick-initialized slick-slider">
+                                                                        <div aria-live="polite" class="slick-list draggable"><div class="slick-track" role="listbox" style="opacity: 1; width: 459px;"><div class="item product-main-image slick-slide slick-current slick-active" data-target="1" data-slick-index="0" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide00" style="width: 459px; position: relative; left: 0px; top: 0px; z-index: 999; opacity: 1;">
+                                                <div data-popup="{&quot;handle&quot;: &quot;.czoom&quot;, &quot;closeBtn&quot;: true, &quot;overlay&quot;: &quot;#fff&quot;, &quot;margin&quot;: 0}">
+                            <a href="https://mono.forevernew.com.au//media/catalog/product/cache/5/image/760x1000/9df78eab33525d08d6e5fb8d27136e95/c/a/canada-gift-card-example_outlandia.jpg" class="czoom-1 czoom" rel="gal1" title="https://mono.forevernew.com.au//media/catalog/product/cache/5/image/9df78eab33525d08d6e5fb8d27136e95/c/a/canada-gift-card-example_outlandia.jpg" tabindex="0">
+                                                                <img src="https://mono.forevernew.com.au//media/catalog/product/cache/5/image/760x1000/9df78eab33525d08d6e5fb8d27136e95/c/a/canada-gift-card-example_outlandia.jpg" class="main-image img-view" alt="ForeverNew Gift Card Main Image" />
+                                <span class="promt"></span>
+                            </a>
+                        </div>
+                                                <!-- <div class="main-image-zoom-hint" onclick="showZoom('')"></div> -->
+                    </div></div></div>
+                            </div>
+            <span class="load"></span>
+            <!-- <a href="" class="ajax-fancybox" id="fancybox" style="display:none">
+                Zoom
+            </a> -->
+        </div>
+        <!-- <a href="#" id="main-prev-item" class='btn-arrow arrow-prev-product'>
+            <span>&nbsp;</span>
+        </a>
+        <a href="#" id="main-next-item" class='btn-arrow arrow-next-product'>
+            <span>&nbsp;</span>
+        </a> -->
+    </div>
+                        </div>
+                    </div>
+                            </div>
+            <!-- end of media-->
+            <div class="product-shop product-view-container">
+                <form action="https://mono.forevernew.com.au/checkout/cart/add/uenc/aHR0cHM6Ly9tb25vLmZvcmV2ZXJuZXcuY29tLmF1L2NhbmFkYS1naWZ0LWNhcmQtMjAxMTQ1ODgwMTAwMA,,/product/94952/form_key/AwaYlwdmg8TrwnAD/" method="post" id="product_addtocart_form" enctype="multipart/form-data">
+                    <input name="form_key" type="hidden" value="AwaYlwdmg8TrwnAD" />
+                    <div class="no-display">
+                        <input type="hidden" id="product-id-input" name="product" value="94952" />
+                        <!--<input type="hidden" name="related_product" id="related-products-field" value="" />-->
+                    </div>
+                
+                
+                                                    <div class="options-container-big">
+                                                    <div class="product-name hidden-md-up">
+                                <h1>Gift Card</h1>
+                            </div>
+                            <h3 class="s-option-title hidden-sm-down">THE PERFECT VIRTUAL GIFT CARD</h3>
+                            <div class="s-option-des hidden-sm-down">
+                                Give the perfect gift that will never go out of style. Indulge your recipient with a delightful surprise delivered straight to her inbox, ready to be redeemed either online or in store. No shipping costs, no waiting for delivery.                            </div>
+                            <fieldset class="product-options highlight" id="product-options-wrapper">
+    <script type="text/javascript">
+//&lt;![CDATA[
+var DateOption = Class.create({
+
+    getDaysInMonth: function(month, year)
+    {
+        var curDate = new Date();
+        if (!month) {
+            month = curDate.getMonth();
+        }
+        if (2 == month &amp;&amp; !year) { // leap year assumption for unknown year
+            return 29;
+        }
+        if (!year) {
+            year = curDate.getFullYear();
+        }
+        return 32 - new Date(year, month - 1, 32).getDate();
+    },
+
+    reloadMonth: function(event)
+    {
+        var selectEl = event.findElement();
+        var idParts = selectEl.id.split("_");
+        if (idParts.length != 3) {
+            return false;
+        }
+        var optionIdPrefix = idParts[0] + "_" + idParts[1];
+        var month = parseInt($(optionIdPrefix + "_month").value);
+        var year = parseInt($(optionIdPrefix + "_year").value);
+        var dayEl = $(optionIdPrefix + "_day");
+
+        var days = this.getDaysInMonth(month, year);
+
+        //remove days
+        for (var i = dayEl.options.length - 1; i &gt;= 0; i--) {
+            if (dayEl.options[i].value &gt; days) {
+                dayEl.remove(dayEl.options[i].index);
+            }
+        }
+
+        // add days
+        var lastDay = parseInt(dayEl.options[dayEl.options.length-1].value);
+        for (i = lastDay + 1; i &lt;= days; i++) {
+            this.addOption(dayEl, i, i);
+        }
+    },
+
+    addOption: function(select, text, value)
+    {
+        var option = document.createElement('OPTION');
+        option.value = value;
+        option.text = text;
+
+        if (select.options.add) {
+            select.options.add(option);
+        } else {
+            select.appendChild(option);
+        }
+    }
+});
+dateOption = new DateOption();
+//]]&gt;
+</script>
+
+    <script type="text/javascript">
+    //&lt;![CDATA[
+    var optionFileUpload = {
+        productForm : $('product_addtocart_form'),
+        formAction : '',
+        formElements : {},
+        upload : function(element){
+            this.formElements = this.productForm.select('input', 'select', 'textarea', 'button');
+            this.removeRequire(element.readAttribute('id').sub('option_', ''));
+
+            template = '&lt;iframe id="upload_target" name="upload_target" style="width:0; height:0; border:0;"&gt;&lt;\/iframe&gt;';
+
+            Element.insert($('option_'+element.readAttribute('id').sub('option_', '')+'_uploaded_file'), {after: template});
+
+            this.formAction = this.productForm.action;
+
+            var baseUrl = 'https://mono.forevernew.com.au/catalog/product/upload/';
+            var urlExt = 'option_id/'+element.readAttribute('id').sub('option_', '');
+
+            this.productForm.action = parseSidUrl(baseUrl, urlExt);
+            this.productForm.target = 'upload_target';
+            this.productForm.submit();
+            this.productForm.target = '';
+            this.productForm.action = this.formAction;
+        },
+        removeRequire : function(skipElementId){
+            for(var i=0; i&lt;this.formElements.length; i++){
+                if (this.formElements[i].readAttribute('id') != 'option_'+skipElementId+'_file' &amp;&amp; this.formElements[i].type != 'button') {
+                    this.formElements[i].disabled='disabled';
+                }
+            }
+        },
+        addRequire : function(skipElementId){
+            for(var i=0; i&lt;this.formElements.length; i++){
+                if (this.formElements[i].readAttribute('name') != 'options_'+skipElementId+'_file' &amp;&amp; this.formElements[i].type != 'button') {
+                    this.formElements[i].disabled='';
+                }
+            }
+        },
+        uploadCallback : function(data){
+            this.addRequire(data.optionId);
+            $('upload_target').remove();
+
+            if (data.error) {
+
+            } else {
+                $('option_'+data.optionId+'_uploaded_file').value = data.fileName;
+                $('option_'+data.optionId+'_file').value = '';
+                $('option_'+data.optionId+'_file').hide();
+                $('option_'+data.optionId+'').hide();
+                template = '&lt;div id="option_'+data.optionId+'_file_box"&gt;&lt;a href="#"&gt;&lt;img src="var/options/'+data.fileName+'" alt=""&gt;&lt;\/a&gt;&lt;a href="#" onclick="optionFileUpload.removeFile('+data.optionId+')" title="Remove file" \/&gt;Remove file&lt;\/a&gt;';
+
+                Element.insert($('option_'+data.optionId+'_uploaded_file'), {after: template});
+            }
+        },
+        removeFile : function(optionId)
+        {
+            $('option_'+optionId+'_uploaded_file').value= '';
+            $('option_'+optionId+'_file').show();
+            $('option_'+optionId+'').show();
+
+            $('option_'+optionId+'_file_box').remove();
+        }
+    }
+    var optionTextCounter = {
+        count : function(field,cntfield,maxlimit){
+            if (field.value.length &gt; maxlimit){
+                field.value = field.value.substring(0, maxlimit);
+            } else {
+                cntfield.innerHTML = maxlimit - field.value.length;
+            }
+        }
+    }
+
+    Product.Options = Class.create();
+    Product.Options.prototype = {
+        initialize : function(config) {
+            this.config = config;
+            this.reloadPrice();
+            document.observe("dom:loaded", this.reloadPrice.bind(this));
+        },
+        reloadPrice : function() {
+            var config = this.config;
+            var skipIds = [];
+            $$('body .product-custom-option').each(function(element){
+                var optionId = 0;
+                element.name.sub(/[0-9]+/, function(match){
+                    optionId = parseInt(match[0], 10);
+                });
+                if (config[optionId]) {
+                    var configOptions = config[optionId];
+                    var curConfig = {price: 0};
+                    if (element.type == 'checkbox' || element.type == 'radio') {
+                        if (element.checked) {
+                            if (typeof configOptions[element.getValue()] != 'undefined') {
+                                curConfig = configOptions[element.getValue()];
+                            }
+                        }
+                    } else if(element.hasClassName('datetime-picker') &amp;&amp; !skipIds.include(optionId)) {
+                        dateSelected = true;
+                        $$('.product-custom-option[id^="options_' + optionId + '"]').each(function(dt){
+                            if (dt.getValue() == '') {
+                                dateSelected = false;
+                            }
+                        });
+                        if (dateSelected) {
+                            curConfig = configOptions;
+                            skipIds[optionId] = optionId;
+                        }
+                    } else if(element.type == 'select-one' || element.type == 'select-multiple') {
+                        if ('options' in element) {
+                            $A(element.options).each(function(selectOption){
+                                if ('selected' in selectOption &amp;&amp; selectOption.selected) {
+                                    if (typeof(configOptions[selectOption.value]) != 'undefined') {
+                                        curConfig = configOptions[selectOption.value];
+                                    }
+                                }
+                            });
+                        }
+                    } else {
+                        if (element.getValue().strip() != '') {
+                            curConfig = configOptions;
+                        }
+                    }
+                    if(element.type == 'select-multiple' &amp;&amp; ('options' in element)) {
+                        $A(element.options).each(function(selectOption) {
+                            if (('selected' in selectOption) &amp;&amp; typeof(configOptions[selectOption.value]) != 'undefined') {
+                                if (selectOption.selected) {
+                                    curConfig = configOptions[selectOption.value];
+                                } else {
+                                    curConfig = {price: 0};
+                                }
+                                optionsPrice.addCustomPrices(optionId + '-' + selectOption.value, curConfig);
+                                optionsPrice.reload();
+                            }
+                        });
+                    } else {
+                        optionsPrice.addCustomPrices(element.id || optionId, curConfig);
+                        optionsPrice.reload();
+                    }
+                }
+            });
+        }
+    }
+    function validateOptionsCallback(elmId, result) {
+        var container = $(elmId).up('ul.options-list');
+        if (result == 'failed') {
+            container.removeClassName('validation-passed');
+            container.addClassName('validation-failed');
+        } else {
+            container.removeClassName('validation-failed');
+            container.addClassName('validation-passed');
+        }
+    }
+    var opConfig = new Product.Options({"12":{"29":{"price":20,"oldPrice":20,"priceValue":"20.0000","type":"fixed","excludeTax":20,"includeTax":20},"30":{"price":30,"oldPrice":30,"priceValue":"30.0000","type":"fixed","excludeTax":30,"includeTax":30},"31":{"price":50,"oldPrice":50,"priceValue":"50.0000","type":"fixed","excludeTax":50,"includeTax":50},"32":{"price":75,"oldPrice":75,"priceValue":"75.0000","type":"fixed","excludeTax":75,"includeTax":75},"33":{"price":100,"oldPrice":100,"priceValue":"100.0000","type":"fixed","excludeTax":100,"includeTax":100},"34":{"price":150,"oldPrice":150,"priceValue":"150.0000","type":"fixed","excludeTax":150,"includeTax":150},"35":{"price":200,"oldPrice":200,"priceValue":"200.0000","type":"fixed","excludeTax":200,"includeTax":200}},"11":{"price":0,"oldPrice":0,"priceValue":"0.0000","type":"fixed","excludeTax":0,"includeTax":0},"10":{"price":0,"oldPrice":0,"priceValue":"0.0000","type":"fixed","excludeTax":0,"includeTax":0},"9":{"price":0,"oldPrice":0,"priceValue":"0.0000","type":"fixed","excludeTax":0,"includeTax":0},"8":{"price":0,"oldPrice":0,"priceValue":"0.0000","type":"fixed","excludeTax":0,"includeTax":0},"7":{"price":0,"oldPrice":0,"priceValue":"0.0000","type":"fixed","excludeTax":0,"includeTax":0}});
+    //]]&gt;
+    </script>
+    <dl class="last">
+            
+<div class="product-options-giftcard">
+    <dt><label class="required">Select Value<em>*</em></label></dt>
+    <dd>
+        <div class="input-box validation-passed">
+            <div class="selector"><span>Gift Card CA +$50.00</span><select name="options[12]" id="select_12" class="required-entry product-custom-option validation-passed" title="" onchange="opConfig.reloadPrice()" style="opacity: 0;"><option value="">-- Please Select --</option><option value="29" price="20">Gift Card CA +$20.00</option><option value="30" price="30">Gift Card CA +$30.00</option><option value="31" price="50">Gift Card CA +$50.00</option><option value="32" price="75">Gift Card CA +$75.00</option><option value="33" price="100">Gift Card CA +$100.00</option><option value="34" price="150">Gift Card CA +$150.00</option><option value="35" price="200">Gift Card CA +$200.00</option></select></div>                                                </div>
+    </dd>
+</div>
+
+    <div class="product-options-giftcard hidden-sm-down">
+        <p class="small-quantity-label">
+            <label for="qty">Quantity</label>
+        </p>
+        <div class="small-quantity-label small-quantity-number">
+            <div class="input-box validation-error">
+                <div class="small-quantity" style="min-width: 20px;">
+                    <div class="selector"><span>1</span><select name="qty" id="select_6" class="required-entry" title="" style="opacity: 0;margin-left: 10px;">
+                        <option value="1" price="20">1</option>
+                        <option value="2" price="30">2</option>
+                        <option value="3" price="50">3</option>
+                        <option value="4" price="75">4</option>
+                        <option value="5" price="100">5</option>
+                        <option value="6" price="150">6</option>
+                        <option value="7" price="200">7</option>
+                        <option value="8" price="250">8</option>
+                        <option value="9" price="300">9</option>
+                        <option value="10" price="500">10</option>
+                    </select></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div style="clear:both;" class=""></div>
+            <div class="product-options-giftcard">
+        <dt>
+        <label class="required">Sender name<em>*</em></label>
+            </dt>
+    <dd>
+            <div class="input-box validation-passed">
+                                    <input type="text" onchange="opConfig.reloadPrice()" id="options_11_text" class="input-text required-entry  validate-alpha-with-hyphen  product-custom-option validation-passed" name="options[11]" value="" />
+                                            </div>
+    </dd>
+</div>
+  <div style="clear:both;" class=""></div>
+
+            <div class="product-options-giftcard">
+        <dt>
+        <label class="required">Sender Email Address<em>*</em></label>
+            </dt>
+    <dd>
+            <div class="input-box validation-error">
+                                    <input type="text" onchange="opConfig.reloadPrice()" id="senderemail" class="validate-email input-text required-entry  product-custom-option validation-failed" name="options[10]" value="" /><div class="validation-advice" id="advice-validate-email-senderemail" style="opacity: 0.854662;">Please enter a valid email address. For example johndoe@domain.com.</div>
+                                            </div>
+    </dd>
+</div>
+    <div class="product-options-giftcard">
+        <dt><label class="required">Confirm Sender Email Address<em>*</em></label>
+        </dt>
+        <dd>
+            <div class="input-box">
+                <input type="text" value="" name="cp_options_10_text" class="validate-scemail input-text required-entry  product-custom-option" id="cfsenderemail" />
+            </div>
+        </dd>
+    </div>
+    <div style="clear:both;" class=""></div>
+
+            <div class="product-options-giftcard">
+        <dt>
+        <label class="required">Recipient Name<em>*</em></label>
+            </dt>
+    <dd>
+            <div class="input-box">
+                                    <input type="text" onchange="opConfig.reloadPrice()" id="options_9_text" class="input-text required-entry  validate-alpha-with-hyphen  product-custom-option" name="options[9]" value="" />
+                                            </div>
+    </dd>
+</div>
+  <div style="clear:both;" class=""></div>
+
+            <div class="product-options-giftcard">
+        <dt>
+        <label class="required">Recipient Email Address<em>*</em></label>
+            </dt>
+    <dd>
+            <div class="input-box">
+                                    <input type="text" onchange="opConfig.reloadPrice()" id="rcemail" class="validate-email input-text required-entry  product-custom-option" name="options[8]" value="" />
+                                            </div>
+    </dd>
+</div>
+
+    <div class="product-options-giftcard">
+        <dt><label class="required">Confirm Recipient Email Address<em>*</em></label>
+        </dt>
+        <dd>
+            <div class="input-box">
+                <input type="text" value="" name="cp_options_8_text" class="validate-rcemail input-text required-entry  product-custom-option" id="cfrcemail" />
+            </div>
+        </dd>
+    </div>
+    <div style="clear:both;" class=""></div>
+            <div class="product-options-giftcard">
+        <dt>
+        <label class="required">Message<em>*</em></label>
+            </dt>
+    <dd class="last">
+            <div class="input-box">
+                                    <textarea id="options_7_text" onchange="opConfig.reloadPrice()" class=" required-entry  validate-length maximum-length-1000 product-custom-option" name="options[7]" rows="5" cols="25" maxlength="1000"></textarea>
+                                                    <p class="note">Maximum number of characters: <strong>1000</strong></p>
+                            </div>
+    </dd>
+</div>
+
+        </dl>
+
+<script type="text/javascript">
+//&lt;![CDATA[
+enUS = {"m":{"wide":["January","February","March","April","May","June","July","August","September","October","November","December"],"abbr":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]}}; // en_US locale reference
+Calendar._DN = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]; // full day names
+Calendar._SDN = ["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]; // short day names
+Calendar._FD = 0; // First day of the week. "0" means display Sunday first, "1" means display Monday first, etc.
+Calendar._MN = ["January","February","March","April","May","June","July","August","September","October","November","December"]; // full month names
+Calendar._SMN = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]; // short month names
+Calendar._am = "AM"; // am/pm
+Calendar._pm = "PM";
+
+// tooltips
+Calendar._TT = {};
+Calendar._TT["INFO"] = "About the calendar";
+
+Calendar._TT["ABOUT"] =
+"DHTML Date/Time Selector\n" +
+"(c) dynarch.com 2002-2005 / Author: Mihai Bazon\n" +
+"For latest version visit: http://www.dynarch.com/projects/calendar/\n" +
+"Distributed under GNU LGPL. See http://gnu.org/licenses/lgpl.html for details." +
+"\n\n" +
+"Date selection:\n" +
+"- Use the \xab, \xbb buttons to select year\n" +
+"- Use the " + String.fromCharCode(0x2039) + ", " + String.fromCharCode(0x203a) + " buttons to select month\n" +
+"- Hold mouse button on any of the above buttons for faster selection.";
+Calendar._TT["ABOUT_TIME"] = "\n\n" +
+"Time selection:\n" +
+"- Click on any of the time parts to increase it\n" +
+"- or Shift-click to decrease it\n" +
+"- or click and drag for faster selection.";
+
+Calendar._TT["PREV_YEAR"] = "Prev. year (hold for menu)";
+Calendar._TT["PREV_MONTH"] = "Prev. month (hold for menu)";
+Calendar._TT["GO_TODAY"] = "Go Today";
+Calendar._TT["NEXT_MONTH"] = "Next month (hold for menu)";
+Calendar._TT["NEXT_YEAR"] = "Next year (hold for menu)";
+Calendar._TT["SEL_DATE"] = "Select date";
+Calendar._TT["DRAG_TO_MOVE"] = "Drag to move";
+Calendar._TT["PART_TODAY"] = ' (' + "Today" + ')';
+
+// the following is to inform that "%s" is to be the first day of week
+Calendar._TT["DAY_FIRST"] = "Display %s first";
+
+// This may be locale-dependent. It specifies the week-end days, as an array
+// of comma-separated numbers. The numbers are from 0 to 6: 0 means Sunday, 1
+// means Monday, etc.
+Calendar._TT["WEEKEND"] = "0,6";
+
+Calendar._TT["CLOSE"] = "Close";
+Calendar._TT["TODAY"] = "Today";
+Calendar._TT["TIME_PART"] = "(Shift-)Click or drag to change value";
+
+// date formats
+Calendar._TT["DEF_DATE_FORMAT"] = "%Y-%m-%d";
+Calendar._TT["TT_DATE_FORMAT"] = "%B %e, %Y";
+
+Calendar._TT["WK"] = "Week";
+Calendar._TT["TIME"] = "Time:";
+//]]&gt;
+</script>
+</fieldset>
+<script type="text/javascript">decorateGeneric($$('#product-options-wrapper dl'), ['last']);</script>
+<div class="product-options-bottom">
+        <div class="add-to-cart simple">
+                <!-- Button List detail -->
+        <button type="button" title="Add to Bag" class="button btn-cart add-to-cart-button-super" onclick="productAddToCartForm.submit(this);seoGA();">
+            <span><span>Add to Bag</span></span>
+        </button>
+        <div class="text-note" style="display: none;"></div>
+                <button type="button" title="Add to Wishlist" class="button btn-cart add-to-wishlist hidden-md-up btn-wishlist" onclick="location.href='https://mono.forevernew.com.au/wishlist/index/add/product/94952/form_key/AwaYlwdmg8TrwnAD/'">
+            <span>Add to Wishlist <i class="icon-plus"></i></span>
+        </button>
+                    <div class="redirect-buttons hidden-md-up">
+                <a class="redirect-btn" href="/checkout/cart" title="Checkout">Checkout</a>
+                <a class="redirect-btn grey-btn" href="/" title="Continue shop">Continue shopping</a>
+            </div>
+                    </div>
+            <div class="s-option-cmspage">
+            <a href="https://mono.forevernew.com.au/faq#giftcards">FAQ</a>
+            <span>|</span>
+            <a href="https://mono.forevernew.com.au/terms/gift-cards-policy/">Terms &amp; Conditions</a>
+        </div>
+        <script>
+            jQuery(document).ready(function() {
+
+            });
+        </script>
+        <script type="text/javascript">
+        function seoGA(){
+            _gaq.push(['_trackEvent','Add To Bag', 'Product Add To Bag Click','Gift Card']);
+        }
+    </script>
+
+
+                
+    <div class="price-box">
+                                                            <span class="regular-price" id="product-price-94952_clone">
+                                            <span class="price">$0.00</span>                                    </span>
+                        
+        </div>
+
+
+            <!-- <div class="redirect-buttons hidden-md-up">
+            <a class="redirect-btn" href="/checkout/cart" title="Checkout">Checkout</a>
+            <a class="redirect-btn grey-btn" href="/" title="Continue shopping">Continue shopping</a>
+        </div> -->
+    </div>
+                                                                        </div>
+                                                                                        <div class="options-container-small">
+                                            </div>
+                                </form>
+                <script type="text/javascript">
+                    //&lt;![CDATA[
+                    var productAddToCartForm = new VarienForm('product_addtocart_form');
+                    Validation.add('validate-alpha-with-hyphen', 'Please use letters only (a-z or A-Z) in this field', function (v) {
+                        return Validation.get('IsEmpty').test(v) ||  /^[a-zA-Z]+([\']?[a-zA-Z]+)*[\-]*([a-zA-Z]+([\']?[a-zA-Z]+)*)*([\s]+[a-zA-Z]*[\-]*([a-zA-Z]+([\']?[a-zA-Z]+)*)*)*$/.test(v)
+                    });
+                    jQuery('.grey-btn', '.product-view-container').click(function(e) {
+                        e.preventDefault();
+                        jQuery('.redirect-buttons').slideUp();
+                        jQuery('body').removeClass('productDetailATB');
+                        jQuery('.product-view-container #super-add-to-cart').find('.btn-cart').removeClass('addBagError addBagNoRespone addBagSuccess').find('span span').html('Add to bag');
+                        jQuery('.product-view-container .add-to-cart-button-super').removeClass('addBagError addBagNoRespone addBagSuccess').find('span span').html('Add to bag');
+                    });
+                    productAddToCartForm.submit = function(button, url) {
+                        if (this.validator.validate()) {
+                            var form = this.form;
+                            var oldUrl = form.action;
+                            if (url) {
+                                form.action = url;
+                            }
+                            var e = null;
+                            //Start of our new ajax code
+                            if(!url){
+                                url = jQuery('#product_addtocart_form').attr('action');
+                            }
+                            if (window.location.protocol == "https:") {
+                                url = url.replace("http://","https://");
+                            }
+                            var data = jQuery('#product_addtocart_form').serialize();
+                            data += '&amp;isAjax=1';
+                            if(jQuery(window).width() &gt; 767) {
+                                jQuery('.sidebar-loading').slideDown(600);
+                            }
+                            else {
+                                jQuery('#super-add-to-cart').find('.btn-cart').find('span span').html('Adding to bag...');
+                                jQuery('.add-to-cart-button-super').find('span span').html('Adding to bag...');
+                            }
+                            try {
+                                jQuery.ajax({
+                                    url: url,
+                                    dataType: 'json',
+                                    type : 'post',
+                                    data: data,
+                                    success: function(data){
+                                        if(jQuery('.productDetails').length) {
+                                            jQuery('.redirect-buttons').slideDown();
+                                            jQuery('body').addClass('productDetailATB');
+                                        }
+                                        //jQuery('.sidebar-loading').show();
+                                        if(jQuery('#messages_product_view') &amp;&amp; data.status == 'ERROR'){
+                                            var _messageBlock = '&lt;div id="messages_product_view"&gt;&lt;div class="messages-content"&gt;&lt;span&gt;' + data.message + '&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;';
+                                            jQuery('#messages_product_view').replaceWith(_messageBlock);
+                                            jQuery('#super-add-to-cart').find('.btn-cart').addClass('addBagError').find('span span').html('Add to bag');
+                                            jQuery('.add-to-cart-button-super').addClass('addBagError').find('span span').html('Add to bag');
+                                        }else if(jQuery('.top-cart') &amp;&amp; data.sidebar){
+                                            jQuery('#super-add-to-cart').find('.btn-cart').addClass('addBagSuccess').find('span span').html('Added to bag');
+                                            jQuery('.add-to-cart-button-super').addClass('addBagSuccess').find('span span').html('Added to bag');
+                                            jQuery('#messages_product_view').replaceWith('&lt;div id="messages_product_view"&gt;&lt;div class="messages-content"&gt;&lt;span&gt;' + data.message + '&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;');
+
+                                            jQuery('.top-cart').replaceWith(data.sidebar);
+                                        }
+                                        // product limit display red border on Qty drop-down.
+                                        if( typeof data.message !== 'undefined' ){
+                                            if(  data.message.indexOf("LIMIT")  &gt; -1 ){
+                                                jQuery('#super-add-to-cart').find('.btn-cart').addClass('addBagNoRespone').find('span span').html('Added to bag');
+                                                jQuery('.add-to-cart-button-super').addClass('addBagNoRespone').find('span span').html('Added to bag');
+                                                jQuery('.catalog-product-view .qty-container div.selector span').css("border","1px solid red")
+                                            }
+                                        }
+                                        // end of product limit display red border on Qty drop-down.
+
+                                        jQuery('.sidebar-loading').hide();
+                                                                                var _messageBlock = '&lt;div id="messages_product_view"&gt;' +
+                                            '&lt;div class="messages-content"&gt;&lt;span&gt;GIFT CARD ADDED TO YOUR BAG&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;';
+                                        jQuery('#messages_product_view').replaceWith(_messageBlock);
+                                        jQuery('.cover-image').css('margin-bottom' , '0px');
+                                                                                if(jQuery(window).width() &lt; 768) {
+                                            if(data.status !== 'ERROR') {
+                                                jQuery('#messages_product_view_mobile').fadeIn();
+                                                setTimeout(function() {
+                                                    jQuery('#messages_product_view_mobile').fadeOut();
+                                                }, 10000);
+                                            }
+                                            else {
+                                                jQuery('#messages_product_view_mobile').find('span').html(data.message);
+                                                jQuery('#messages_product_view_mobile').fadeIn();
+                                                setTimeout(function() {
+                                                    jQuery('#messages_product_view_mobile').fadeOut();
+                                                }, 10000);
+                                            }
+                                        }
+                                        //reinitialize dropdowns so as the content has changed
+                                        $$('.fn-head-dd-trigger:not(.is-initialized)').each( function(el) {
+                                            var dd = new FN.Dropdown(el);
+                                            FN.dds.push(dd);
+                                            dd.show();
+                                            setInterval(function() {
+                                                if (!dd.focused &amp;&amp; !dd.over) {
+                                                    dd.hide();
+                                                }
+                                            }, 3000);
+                                        });
+                                        if(jQuery('#mini-cart').length){
+                                            jQuery('#mini-cart').carouFredSel({
+                                                auto: {
+                                                    play: false
+                                                },
+                                                width: 350,
+                                                height: "auto",
+                                                direction: "up",
+                                                scroll: {
+                                                    items: 3,
+                                                    duration: 400
+                                                },
+                                                items: {width: 350,
+                                                    height: 100,
+                                                    visible: 3,
+                                                    max: 3,
+                                                    min: 3
+                                                },
+                                                prev: '#prev-cart',
+                                                next: '#next-cart'
+                                            });
+                                            jQuery('#mini-cart').css('height','auto');
+                                        }
+                                        if(typeof _riTrack != 'undefined') { _riTrack.trackAddProductToCart(data.addtocartSku); }
+                                        if(typeof fbq != 'undefined' &amp;&amp; typeof contentJson!= 'undefined') {
+                                            fbq('track', 'AddToCart', {
+                                                content_category: contentJson.category,
+                                                content_ids: [data.addtocartSku],
+                                                content_type: 'product'
+                                            });
+                                        }
+                                    }
+                                });
+                            } catch (e) {
+                            }
+                            //End of our new ajax code
+                            this.form.action = oldUrl;
+                            if (e) {
+                                throw e;
+                            }
+                        }
+                        else {
+                            var err = '';
+                            var color = jQuery('select[for="fashion_colour"]').val();
+                            var size = jQuery('select[for="size"]').val();
+                            if(color==''){
+                                setTimeout("hideColorErr();",200);
+                                err = 'Please select your colour before adding item to cart';
+                            }
+                            if(size==''){
+                                setTimeout("hideSizeErr();",200);
+                                err = 'Please select your size before adding item to cart';
+                            }
+                            if(err!=''){
+                                jQuery('.text-note').html(err);
+                                jQuery('.text-note').show();
+                            }
+                        }
+                    }.bind(productAddToCartForm);
+                    function hideColorErr(){
+                        jQuery('select[for="color"]').parent().find('.validation-advice').hide();
+                    }
+                    function hideSizeErr(){
+                        jQuery('select[for="size"]').parent().find('.validation-advice').hide();
+                    }
+                    productAddToCartForm.submitLight = function(button, url){
+                        var err = '';
+                        var color = jQuery('select[for="fashion_colour"]').val();
+                        var size = jQuery('select[for="size"]').val();
+                        if (color == '') {
+                            setTimeout("hideColorErr();", 200);
+                            err = 'Please select your colour before adding item to cart';
+                        }
+                        if (size == '') {
+                            setTimeout("hideSizeErr();", 200);
+                            err = 'Please select your size before adding item to cart';
+                        }
+                        if (err != '') {
+                            jQuery('.text-note').html(err);
+                            jQuery('.text-note').show();
+                        }else{
+                            if(this.validator) {
+                                var nv = Validation.methods;
+                                delete Validation.methods['required-entry'];
+                                delete Validation.methods['validate-one-required'];
+                                delete Validation.methods['validate-one-required-by-name'];
+                                // Remove custom datetime validators
+                                for (var methodName in Validation.methods) {
+                                    if (methodName.match(/^validate-datetime-.*/i)) {
+                                        delete Validation.methods[methodName];
+                                    }
+                                }
+                                if (this.validator.validate()) {
+                                    if (url) {
+                                        this.form.action = url;
+                                    }
+                                    this.form.submit();
+                                }
+                                Object.extend(Validation.methods, nv);
+                            }
+                        }
+                    }.bind(productAddToCartForm);
+
+                    function showFormReview()
+                    {
+                        jQuery('#product_info_review .product-collateral').show();
+                        jQuery('#advancereviews-filters').hide();
+                    }
+
+                    function showListReview()
+                    {
+                        jQuery('#product_info_review .product-collateral').hide();
+                        jQuery('#advancereviews-filters').show();
+                    }
+                    //]]&gt;
+                </script>
+                <!-- Product description -->
+                                <!-- End Product description -->
+
+                                                
+                                <!-- Shopping Cart Promotion rule Banner Part-->
+
+                <!-- Product description -->
+                <div class="">
+                <div class="wrap-content-des clearfix">
+                                                                    <ul data-collapse="" class="initCollapse">
+                                                    <li>
+                                <h3 data-handle="description" data-active="" href="#!" data-init="" class="active">
+                                    Description                                    <i class="icon-arrow-up"></i><i class="icon-arrow-down"></i>
+                                </h3>
+                                <div class="tmp-sub-nav active" data-content="description" style="display: block;">
+                                            Give the perfect gift that will never go out of style. Indulge your recipient with a delightful surprise delivered straight to her inbox, ready to be redeemed either online or in store. No shipping costs, no waiting for delivery.<br />
+<br />
+<small style="font-style: italic">Ever New is the Canadian trading company of the Forever New Group. Some imagery used on this website may show garments labelled 'Forever New', however please note that all products ordered from this website will be labelled 'Ever New'.<br /><br />Tax differs per province/postcode.</small>                                </div>
+                            </li>
+                                                                                <li>
+                                <h3 data-handle="product.country" data-active="" href="#!">
+                                    Product Details                                    <i class="icon-arrow-up"></i><i class="icon-arrow-down"></i>
+                                </h3>
+                                <div class="tmp-sub-nav" data-content="product.country">
+                                    
+
+<br />
+<br />
+
+                                </div>
+                            </li>
+                                                                                <li>
+                                <h3 data-handle="product.delivery.returns" data-active="" href="#!">
+                                    Shipping &amp; Returns                                    <i class="icon-arrow-up"></i><i class="icon-arrow-down"></i>
+                                </h3>
+                                <div class="tmp-sub-nav" data-content="product.delivery.returns">
+                                    <p class="p1"> </p>
+<table class="delivery-table">
+<tbody>
+<tr>
+<td><strong>Standard Delivery</strong></td>
+<td>CA$9.95</td>
+<td style="width: 250px;">
+<p>Local Vancouver: 1-2 days</p>
+<p>Regional British Columbia: 1-3 days</p>
+<p>National - All other Provinces: 2-7 days</p>
+</td>
+</tr>
+<tr>
+<td><strong>Express Delivery</strong></td>
+<td>CA$14.95</td>
+<td style="width: 250px;">
+<p>Local Vancouver: Next day</p>
+<p>Regional British Columbia: Next day</p>
+<p>National - All other Provinces: 2 days</p>
+</td>
+</tr>
+</tbody>
+</table><br />
+<p class="p4">For further information please refer to our <a href="/shipping"><span class="s2">Shipping Policy</span> </a>and for information regarding our returns and refunds, please refer to our <span class="s2"><a href="/returns">Online Returns Policy</a>.</span></p>
+
+<style>
+strong {font-family: "ProximaNova-Semibold";}
+</style>                                </div>
+                            </li>
+                                                                                <li class="sizing_chart_detail">
+                                <h3 data-handle="product.sizing.chart" data-active="" href="#!">
+                                    Sizing Chart                                    <i class="icon-arrow-up"></i><i class="icon-arrow-down"></i>
+                                </h3>
+                                <div class="tmp-sub-nav" data-content="product.sizing.chart">
+                                    
+
+<script type="text/javascript">
+    jQuery(document).ready(function () {
+        decorateTable('size-overview-specs-table');
+        decorateTable('size-rings-specs-table');
+        decorateTable('size-belts-specs-table');
+        //Open first pane and display sizing
+        jQuery('#sizing-chart_lightbox .left .preview .sizing, #sizing-chart_lightbox .left .preview .shoe, #sizing-chart_lightbox .left .preview .accessories').hide();
+        jQuery("#sizing-chart_lightbox .left .preview .sizing").show();
+        // left preview images.
+        jQuery('#sizing-measure').click(function () {
+            jQuery('#sizing-chart_lightbox .left .preview .sizing, #sizing-chart_lightbox .left .preview .shoe, #sizing-chart_lightbox .left .preview .accessories').hide();
+            jQuery('#sizing-chart_lightbox .left .preview .sizing').show();
+        });
+        jQuery('#sizing-overview').click(function () {
+            jQuery('#sizing-chart_lightbox .left .preview .sizing, #sizing-chart_lightbox .left .preview .shoe, #sizing-chart_lightbox .left .preview .accessories').hide();
+            jQuery('#sizing-chart_lightbox .left .preview .sizing').show();
+        });
+        jQuery('#sizing-footwear').click(function () {
+            jQuery('#sizing-chart_lightbox .left .preview .sizing, #sizing-chart_lightbox .left .preview .shoe, #sizing-chart_lightbox .left .preview .accessories').hide();
+            jQuery('#sizing-chart_lightbox .left .preview .shoe').show();
+        });
+        jQuery('#sizing-accessories').click(function () {
+            jQuery('#sizing-chart_lightbox .left .preview .sizing, #sizing-chart_lightbox .left .preview .shoe, #sizing-chart_lightbox .left .preview .accessories').hide();
+            jQuery('#sizing-chart_lightbox .left .preview .accessories').show();
+        });
+    });
+</script>
+
+<div id="sizing-chart_lightbox">
+    <div class="left">
+    <h2>Sizing Guide</h2>
+    <div class="preview">
+        <div class="sizing" style="display: block;">
+            <img src="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/images/girl_slice1.jpg" alt="ForeverNew Girl Clothing" />
+        </div>
+        <div class="shoe" style="display: none;">
+            <img src="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/images/shoeslice_04.jpg" alt="ForeverNew Shoes" />
+        </div>
+        <div class="accessories" style="display: none;">
+            <img src="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/images/accessoriesslice_03.jpg" alt="ForeverNew Accessory" />
+        </div>
+    </div>
+</div>
+<div class="right">
+    <div id="accordion-container" data-collapse="{&quot;activeCls&quot;: &quot;active-header&quot;, &quot;effect&quot;: &quot;fade&quot;}" class="initCollapse">
+        <!-- How to Measure -->
+        <h2 class="accordion-header active active-header" id="sizing-measure" data-handle="Measure" data-active="" data-init="">How to measure</h2>
+        <div class="accordion-content active-header" data-content="Measure" style="display: block;">
+            <p>To determine your perfect fit, we recommend measuring the following areas.</p>
+            <br />
+            <b>BUST CIRCUMFERENCE</b>
+            <p>Measure the fullest part of your bust. Keep your arms down by your side.</p><br />
+            <strong>WAIST CIRCUMFERENCE</strong><br />
+            <p>Measure the narrowest part of your natural waistline. You will find above your navel and
+                below your ribcage</p><br />
+            <strong>HIP CIRCUMFERENCE</strong><br />
+            <p>Measure the fullest part of your natural hipline. Remember to keep the tape measure flat</p><br />
+        </div>
+        <!-- Size Overview -->
+        <h2 class="accordion-header" id="sizing-overview" data-handle="Overview" data-active="">Size Overview</h2>
+        <div id="size_overview" class="accordion-content" data-content="Overview">
+            <table class="data-table" id="size-overview-specs-table">
+                <colgroup>
+                    <col width="25%" />
+                        </colgroup><tbody><tr class="first last odd">
+                            <th class="label">US</th>
+                            <th class="label">0</th>
+                            <th class="label">2</th>
+                            <th class="label">4</th>
+                            <th class="label">6</th>
+                            <th class="label">8</th>
+                            <th class="label">10</th>
+                            <th class="label">12</th>
+                            <th class="label">14</th>
+                        </tr>
+                    
+                
+                </tbody><tbody>
+                <tr class="first last odd even">
+                    <th class="label">Bust</th>
+                    <td class="data">74</td>
+                    <td class="data">79</td>
+                    <td class="data">84</td>
+                    <td class="data">89</td>
+                    <td class="data">94</td>
+                    <td class="data">99</td>
+                    <td class="data">104</td>
+                    <td class="data last">109</td>
+                </tr>
+                <tr class="first last odd">
+                    <th class="label">Waist</th>
+                    <td class="data">57</td>
+                    <td class="data">62</td>
+                    <td class="data">67</td>
+                    <td class="data">72</td>
+                    <td class="data">77</td>
+                    <td class="data">82</td>
+                    <td class="data">87</td>
+                    <td class="data last">92</td>
+                </tr>
+                <tr class="first last odd even">
+                    <th class="label">Hips</th>
+                    <td class="data">83</td>
+                    <td class="data">88</td>
+                    <td class="data">93</td>
+                    <td class="data">98</td>
+                    <td class="data">103</td>
+                    <td class="data">108</td>
+                    <td class="data">113</td>
+                    <td class="data last">118</td>
+                </tr>
+                </tbody>
+            </table>
+            <table class="data-table" id="size-overview-specs-table">
+                <colgroup>
+                    <col width="25%" />
+                        </colgroup><tbody><tr class="first last odd">
+                            <th class="label">US</th>
+                            <th class="label">0</th>
+                            <th class="label">2</th>
+                            <th class="label">4</th>
+                            <th class="label">6</th>
+                            <th class="label">8</th>
+                            <th class="label">10</th>
+                            <th class="label">12</th>
+                            <th class="label">14</th>
+                        </tr>
+                    
+                
+                </tbody><tbody>
+                <tr class="first last odd">
+                    <th class="label"></th>
+                    <td colspan="2" class="data">XS</td>
+                    <td colspan="2" class="data">S</td>
+                    <td colspan="2" class="data">M</td>
+                    <td colspan="2" class="data">L</td>
+                </tr>
+                <tr class="first last odd">
+                    <th class="label">AUS</th>
+                    <td class="data">4</td>
+                    <td class="data">6</td>
+                    <td class="data">8</td>
+                    <td class="data">10</td>
+                    <td class="data">12</td>
+                    <td class="data">14</td>
+                    <td class="data">16</td>
+                    <td class="data">18</td>
+                </tr>
+                <tr class="first last odd">
+                    <th class="label">UK</th>
+                    <td class="data">4</td>
+                    <td class="data">6</td>
+                    <td class="data">8</td>
+                    <td class="data">10</td>
+                    <td class="data">12</td>
+                    <td class="data">14</td>
+                    <td class="data">16</td>
+                    <td class="data">18</td>
+                </tr>
+                <tr class="first last odd">
+                    <th class="label">EU</th>
+                    <td class="data">32</td>
+                    <td class="data">34</td>
+                    <td class="data">36</td>
+                    <td class="data">38</td>
+                    <td class="data">40</td>
+                    <td class="data">42</td>
+                    <td class="data">44</td>
+                    <td class="data">46</td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Footwear -->
+        <h2 class="accordion-header" id="sizing-footwear" data-handle="Footwear" data-active="">Footwear</h2>
+        <div class="accordion-content sizing-footwear" data-content="Footwear">
+            <p>If you are between sizes or need assistance to select your best fit, please contact us at <a title="Email Ever New Customer Service" href="mailto:customerservice@forevernew.com.au" target="_blank">Customer Service</a>. We recommend trying your new shoes on a soft surface (like carpet) to ensure they are the correct size, before wearing outdoors.<br />
+            </p><p>Heel heights are measured from the highpoint where the heel joins the shoes, right to the floor.</p>
+            <table class="data-table" id="size-overview-specs-table">
+                <colgroup>
+                    <col width="25%" />
+                        </colgroup><tbody><tr class="first last odd">
+                            <th class="label">US SIZE</th>
+                            <th class="label">5</th>
+                            <th class="label">6</th>
+                            <th class="label">7</th>
+                            <th class="label">8</th>
+                            <th class="label">9</th>
+                            <th class="label">10</th>
+                            <th class="label">11</th>
+                        </tr>
+                    
+                
+                </tbody><tbody>
+                <tr class="first last odd">
+                    <th class="label">AU SIZE</th>
+                    <td class="data">5</td>
+                    <td class="data">6</td>
+                    <td class="data">7</td>
+                    <td class="data">8</td>
+                    <td class="data">9</td>
+                    <td class="data">10</td>
+                    <td class="data">11</td>
+                </tr>
+                <tr class="first last odd">
+                    <th class="label">UK SIZE</th>
+                    <td class="data">3</td>
+                    <td class="data">4</td>
+                    <td class="data">5</td>
+                    <td class="data">6</td>
+                    <td class="data">7</td>
+                    <td class="data">8</td>
+                    <td class="data">9</td>
+                </tr>
+                <tr class="first last odd">
+                    <th class="label">EU SIZE</th>
+                    <td class="data">36</td>
+                    <td class="data">37</td>
+                    <td class="data">38</td>
+                    <td class="data">39</td>
+                    <td class="data">40</td>
+                    <td class="data">41</td>
+                    <td class="data">42</td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Accessories -->
+        <h2 class="accordion-header" id="sizing-accessories" data-handle="Accessories" data-active="">Accessories</h2>
+        <div class="accordion-content" data-content="Accessories">
+            <p>Find your perfect accessory with this helpful size guide.</p>
+            <br />
+            <p><b>Hats</b></p>
+            <p>Our hats fit a head circumference of 57cm</p><br />
+            <p><b class="rings">Rings   </b> <b class="belts"> Belts</b></p>
+            <table class="data-table" id="size-rings-specs-table">
+                <tbody>
+                <tr class="first last odd">
+                    <th class="label">S/M</th>
+                    <td colspan="3" class="data last">17mm</td>
+                </tr>
+                <tr class="first last odd even">
+                    <th class="label">M/L</th>
+                    <td colspan="3" class="data last">19mm</td>
+                </tr>
+                </tbody>
+            </table>
+            <table class="data-table" id="size-belts-specs-table">
+                <colgroup>
+                    <col width="25%" />
+                    </colgroup><tbody><tr class="first last odd">
+                        <th class="label">XS</th>
+                        <td colspan="3" class="data last">4-5</td>
+                    </tr>
+                    
+                
+                </tbody><tbody>
+                <tr class="first last odd even">
+                    <th class="label">S</th>
+                    <td colspan="3" class="data last">8-10</td>
+                </tr>
+                <tr class="first last odd">
+                    <th class="label">M</th>
+                    <td colspan="3" class="data last">12-14</td>
+                </tr>
+                <tr class="first last odd even">
+                    <th class="label">L</th>
+                    <td colspan="3" class="data last">16</td>
+                </tr>
+                </tbody>
+            </table>
+            <div class="clearer"></div>
+            <div class="hosiery" style="margin-top: -12px;">
+                <p><b>Hosiery</b></p>
+                <table class="data-table" id="size-overview-specs-table">
+                    <colgroup>
+                        <col width="25%" />
+                        </colgroup><tbody><tr class="first last odd">
+                            <th class="label"></th>
+                            <td colspan="3" class="data heights">HEIGHT</td>
+                        </tr>
+                        
+                    
+                    </tbody><tbody>
+                    <tr class="first last odd hips">
+                        <th class="label hips">HIPS</th>
+                        <td class="data hips">4'10-5'0 / 147 - 152cm</td>
+                        <td class="data hips">5'1-5'4 / 155 - 163cm</td>
+                        <td class="data hips">5'5-5'10 / 165 - 178cm</td>
+                    </tr>
+                    <tr class="first last odd">
+                        <th class="label">34-37in/86<br />-94cm</th>
+                        <td class="data">SMALL</td>
+                        <td class="data">MEDIUM</td>
+                        <td class="data">LARGE</td>
+                    </tr>
+                    <tr class="first last odd">
+                        <th class="label">37-39in/94<br /> -99cm</th>
+                        <td class="data">SMALL</td>
+                        <td class="data">MEDIUM</td>
+                        <td class="data">LARGE</td>
+                    </tr>
+                    <tr class="first last odd">
+                        <th class="label">39-42in/99<br />-107cm</th>
+                        <td class="data">MEDIUM</td>
+                        <td class="data">MEDIUM</td>
+                        <td class="data">LARGE</td>
+                    </tr>
+                    <tr class="first last odd">
+                        <th class="label">34-42in/86cm</th>
+                        <td class="data">ONE SIZE</td>
+                        <td class="data">ONE SIZE</td>
+                        <td class="data">ONE SIZE</td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <h2 class="accordion-header" id="sizing-jeans" onclick="window.open('/denim-edit-fit-guide','_blank');" style="background-image:none;">Jeans</h2>
+    </div>
+</div></div>                                </div>
+                            </li>
+                                                                                                    </ul>
+                                    </div>
+                </div>
+                <!-- End Product description -->
+
+                <!-- share button 2-->
+                            </div>
+            <!--style with-->
+        </div>
+        <!-- Cross Sell -->
+        
+    <!-- </form> -->
+    <!-- optimizely -->
+        <!-- end of optimizely -->
+    <div class="product-collateral">
+            </div>
+
+                </div>
+                </div>
+            </div>
+                        <div class="footer-container">
+    <div class="footer-wrapper footer desktop-only">
+        <div class="footer-left">
+            <div class="footer-link">
+                <!-- cms_block: footer_links INT -->
+<div>
+<h2 class="link-label">Shopping Online</h2>
+	<ul>
+	<li><a href="https://mono.forevernew.com.au/shipping">Delivery</a></li>
+	<li><a href="https://mono.forevernew.com.au/international-delivery-shipping-information">International Shipping</a></li>
+	<li><a href="https://mono.forevernew.com.au/canada-gift-card-2011458801000">Gift Cards</a></li>
+	</ul>
+	</div>
+	<div>
+	<h2 class="link-label">Customer Service</h2>
+	<ul>
+	<li><a href="https://mono.forevernew.com.au/contacts">Contact Us</a></li>
+	<li><a href="https://mono.forevernew.com.au/faq">FAQs</a></li>
+	<li><a href="https://mono.forevernew.com.au/size-guide">Size Guide</a></li>
+	</ul>
+	</div>
+	<div>
+	<h2 class="link-label">About Us</h2>
+	<ul>
+	<li><a href="https://mono.forevernew.com.au/company/?___store=ca">The Company</a></li>
+	<li><a href="https://mono.forevernew.com.au/responsibility">Community &amp; Environment</a></li>
+	<li><a href="https://mono.forevernew.com.au/careers">Careers</a></li>
+	</ul>
+</div>
+
+<!-- cms_block: footer_links INT -->            </div>
+        </div>
+        <div class="footer-right">
+            <ul class="footer-social">
+<li><a href="mailto:customerservice@evernew.ca">Email</a></li>
+<li><a class="facebook" href="https://www.facebook.com/EverNewOfficial/" target="_blank">Facebook</a></li>
+<li><a class="instagram" href="https://www.instagram.com/evernewca/" target="_blank">Instagram</a></li>
+</ul>            <h2 class="link-label">Become an ever new member</h2>
+<p class="label-subcribe"><span>Be first with email updates, new arrivals</span><br /><span>and exclusive offers delivered straight to your inbox</span></p>            <form action="https://mono.forevernew.com.au/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
+    <div class="form-subscribe">
+        <button type="submit" class="button" title="Join"><span>Join</span></button>
+        <div class="v-fix">
+            <input name="email" type="text" id="newsletter" value="Enter your email address" onclick="this.value=='Enter your email address'?this.value='':''" onblur="this.value==''?this.value='Enter your email address':''" class="input-text required-entry validate-email-subscribe" />
+        </div>
+    </div>
+    <input type="hidden" name="isFromFooter" value="1" />
+</form>
+<script type="text/javascript">
+    //&lt;![CDATA[
+    var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+    Validation.add('validate-email-subscribe','Please enter a valid email address.&lt;br /&gt; For example johndoe@domain.com.',function(v){
+        return Validation.get('IsEmpty').test(v) || /^([a-z0-9,!\#\$%&amp;'\*\+\/=\?\^_`\{\|\}~-]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+(\.([a-z0-9,!\#\$%&amp;'\*\+\/=\?\^_`\{\|\}~-]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+)*@([a-z0-9-]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+(\.([a-z0-9-]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+)*\.(([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]){2,})$/i.test(v)
+    });
+    Varien.newsletterForm = Class.create();
+    Varien.newsletterForm.prototype = {
+        initialize : function(form){
+            this.form = $(form);
+            this.validator  = new Validation(this.form);
+            Event.observe(this.form, 'submit', this.submit.bind(this));
+        },
+        submit : function(event){
+            if(this.validator &amp;&amp; this.validator.validate()){
+                if(typeof _riTrack != 'undefined') {
+                    _riTrack.setCustomer(this.form.email.value);
+                }
+                _gaq.push(['_trackEvent', 'Email Subscription', 'Join Us Button', 'Click']);
+
+            }
+        }
+    };
+    var newsletterForm = new Varien.newsletterForm('newsletter-validate-detail');
+    //]]&gt;
+</script>
+        </div>
+    </div>
+    <div class="footer_abn desktop-only">
+                <div class="footer_trust">
+                    </div>
+        <div class="copyright"><p></p><p style="color: #808285; font-size: 11px;display:block !important;">© 2016 Ever New Clothing Ltd. All rights reserved | <a href="https://mono.forevernew.com.au/policy/" target="_self">Privacy</a> | <a href="https://mono.forevernew.com.au/terms/">Terms &amp; Conditions</a></p><p></p> </div>
+    </div>
+    <!-- New Code footer mobile-->
+    <div class="mobile-only">
+        <form action="https://mono.forevernew.com.au/newsletter/subscriber/new/" method="post" id="newsletter-validate-mobile" name="" class="form-newsletter">
+            <p class="label-subcribe">Become an Ever New member</p>
+            <div class="form-subscribe">
+                <button type="submit" class="button" title="Join"><span>Join</span></button>
+                <div class="v-fix">
+                    <input name="email" type="text" id="newsletter-mobile" value="Sign up for email updates" onclick="this.value=='Sign up for email updates'?this.value='':''" onblur="this.value==''?this.value='Sign up for email updates':''" class="input-text required-entry validate-email-subscribe" />
+                </div>
+            </div>
+            <input type="hidden" name="isFromFooter" value="1" />
+        </form>
+        <script type="text/javascript">
+            var newsletterSubscriberFormMobile = new VarienForm('newsletter-validate-mobile');
+            Validation.add('validate-email-subscribe','Please enter a valid email address.&lt;br /&gt; For example johndoe@domain.com.',function(v){
+                return Validation.get('IsEmpty').test(v) || /^([a-z0-9,!\#\$%&amp;amp;'\*\+\/=\?\^_`\{\|\}~-]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+(\.([a-z0-9,!\#\$%&amp;amp;'\*\+\/=\?\^_`\{\|\}~-]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+)*@([a-z0-9-]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+(\.([a-z0-9-]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+)*\.(([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]){2,})$/i.test(v)
+            });
+        </script>
+        <div class="footer-link">
+            <ul>
+<li><a title="Help" href="mailto:customerservice@evernew.ca" target="_self">Help</a></li>
+<li><a title="Shipping" href="https://mono.forevernew.com.au/shipping/">Shipping</a></li>
+<li><a title="Gift Cards" href="https://mono.forevernew.com.au/canada-gift-card-2011458801000/">Gift Cards</a></li>
+<li><a title="Contact Us" href="mailto:customerservice@evernew.ca">Contact Us</a></li>
+<li><a title="Returns" href="https://mono.forevernew.com.au/returns/">Returns</a></li>
+<li><a href="https://mono.forevernew.com.au/company">About Us</a></li>
+</ul>            <!--ul>
+                <li><a href="" title="Help">Help</a></li>
+                <li><a href="" title="Shipping">Shipping</a></li>
+                <li><a href="" title="Contact Us">Contact Us</a></li>
+                <li><a href="" title="Returns">Returns</a></li>
+            </ul-->
+        </div>
+        <div class="social-block">
+            <ul>
+<li><a href="https://www.facebook.com/EverNewOfficial/" target="_blank"><img src="https://mono.forevernew.com.au//media/wysiwyg/icon-facebook.png" alt="" width="10" /></a></li>
+<li><a href="https://www.instagram.com/evernewca/" target="_blank"><img src="https://mono.forevernew.com.au//media/wysiwyg/icon-instagram.png" alt="" width="22" /></a></li>
+</ul>            <!--ul>
+                <li><a href="" target="_blank" title="Facebook"><img src="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/images/icon-facebook.png" alt="" width="10" /></a></li>
+                <li><a href="" target="_blank" title="Facebook"><img src="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/images/icon-instagram.png" alt="" width="22" /></a></li>
+                <li><a href="" target="_blank" title="Facebook"><img src="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/images/icon-twitter.png" alt="" width="25" /></a></li>
+                <li><a href="" target="_blank" title="Facebook"><img src="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/images/icon-youtube.png" alt="" width="25" /></a></li>
+                <li><a href="" target="_blank" title="Facebook"><img src="https://mono.forevernew.com.au//skin/frontend/enterprise/forevernew/images/icon-social.png" alt="" width="24" /></a></li>
+            </ul-->
+        </div>
+                <div class="copyright">
+            <p>© Ever New 2016. All rights reserved   <a href="/policy" title="Privacy Policy">Privacy Policy</a> | <a href="/terms" title="Terms &amp; Conditions">Terms &amp; Conditions</a></p>
+        </div>
+    </div>
+    <!-- End New Code -->
+</div>
+<!--<address class="copyright">--><!--</address>-->
+
+            
+<script type="text/javascript">
+if(typeof biAjax != 'undefined'){
+	biAjax.setLoadUrl('https://mono.forevernew.com.au/ajax/index/fetchview/');
+	biAjax.load();
+}
+</script>
+<script type="text/javascript">
+//&lt;![CDATA[
+Enterprise.Wishlist.list = [{"id":"31","name":"Wishlist"}];
+if (!Enterprise.Wishlist.url) {
+    Enterprise.Wishlist.url = {};
+}
+Enterprise.Wishlist.url.create = 'https://mono.forevernew.com.au/wishlist/index/createwishlist/';
+Enterprise.Wishlist.canCreate = true;
+//]]&gt;
+</script>
+<!-- GTM data -->
+            <script>
+                dataLayer = [{"customerLoggedIn":1,"customerId":"75","customerEmail":"k.keerthipriya@gmail.com","customerFirstName":"Keerthi","customerLastName":"Priya","customerGroupId":"1","customerGroupCode":"GENERAL","transactionEntity":"QUOTE","transactionId":"993","transactionAffiliation":"Ever New","transactionTotal":0,"transactionTax":0,"transactionProducts":[],"productId":"94952","productName":"Gift Card","productSku":"2011458801000","productPrice":"0.00","productPriceExcludingTax":"0.00","productTax":"0.00","productTaxRate":0,"productGender":false,"pageType":"catalog\/product\/view"}];
+                        dataLayer.push({'ecommerce': {"detail":[{"id":"94952","name":"Gift Card","price":0,"priceexcludingtax":"0.00","tax":"0.00","taxrate":0,"brand":"","gender":false,"category":null,"children":[]}]}});    </script>
+<!-- Facebook Pixel Code -->
+<script>
+fbq('track', 'ViewContent', {
+                content_category: '',
+                content_ids: ['2011458801000'],
+                content_type: 'product' 
+        });
+ var contentJson = {"sku":"2011458801000","category":""};
+</script>
+<noscript>&lt;img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=248302552289449-123&amp;ev=ViewContent&amp;noscript=1"
+/&gt;</noscript>
+<!-- End Facebook Pixel Code --><script type="text/javascript">
+
+    // Only init the vzero class once
+    if(vzero === undefined) {
+
+        // Pass some data over to vZero integration JS
+        var vzero = new vZero(
+            'gene_braintree_creditcard',
+            'eyJ2ZXJzaW9uIjoyLCJhdXRob3JpemF0aW9uRmluZ2VycHJpbnQiOiI5Y2NhMDhjNDE3OWZlMjYwYTEwYzI5Y2UyY2FmNjcyOWI0NDQ3MjBiZGE1MzJmODRhMjcxZTE4Y2UyMjJmMjQyfGNyZWF0ZWRfYXQ9MjAxNy0wOS0xNVQwMTo0MzowOC4xOTczODg5MTMrMDAwMFx1MDAyNm1lcmNoYW50X2FjY291bnRfaWQ9ZUNhcmdvX0ZOQ1x1MDAyNm1lcmNoYW50X2lkPWpneXhyaDIyM3Q3M2oyM3RcdTAwMjZwdWJsaWNfa2V5PWp4YjVkdHFrcXQ0cnlqbnkiLCJjb25maWdVcmwiOiJodHRwczovL2FwaS5zYW5kYm94LmJyYWludHJlZWdhdGV3YXkuY29tOjQ0My9tZXJjaGFudHMvamd5eHJoMjIzdDczajIzdC9jbGllbnRfYXBpL3YxL2NvbmZpZ3VyYXRpb24iLCJjaGFsbGVuZ2VzIjpbImN2diJdLCJlbnZpcm9ubWVudCI6InNhbmRib3giLCJjbGllbnRBcGlVcmwiOiJodHRwczovL2FwaS5zYW5kYm94LmJyYWludHJlZWdhdGV3YXkuY29tOjQ0My9tZXJjaGFudHMvamd5eHJoMjIzdDczajIzdC9jbGllbnRfYXBpIiwiYXNzZXRzVXJsIjoiaHR0cHM6Ly9hc3NldHMuYnJhaW50cmVlZ2F0ZXdheS5jb20iLCJhdXRoVXJsIjoiaHR0cHM6Ly9hdXRoLnZlbm1vLnNhbmRib3guYnJhaW50cmVlZ2F0ZXdheS5jb20iLCJhbmFseXRpY3MiOnsidXJsIjoiaHR0cHM6Ly9jbGllbnQtYW5hbHl0aWNzLnNhbmRib3guYnJhaW50cmVlZ2F0ZXdheS5jb20vamd5eHJoMjIzdDczajIzdCJ9LCJ0aHJlZURTZWN1cmVFbmFibGVkIjp0cnVlLCJwYXlwYWxFbmFibGVkIjp0cnVlLCJwYXlwYWwiOnsiZGlzcGxheU5hbWUiOiJlQ2FyZ28iLCJjbGllbnRJZCI6bnVsbCwicHJpdmFjeVVybCI6Imh0dHA6Ly9leGFtcGxlLmNvbS9wcCIsInVzZXJBZ3JlZW1lbnRVcmwiOiJodHRwOi8vZXhhbXBsZS5jb20vdG9zIiwiYmFzZVVybCI6Imh0dHBzOi8vYXNzZXRzLmJyYWludHJlZWdhdGV3YXkuY29tIiwiYXNzZXRzVXJsIjoiaHR0cHM6Ly9jaGVja291dC5wYXlwYWwuY29tIiwiZGlyZWN0QmFzZVVybCI6bnVsbCwiYWxsb3dIdHRwIjp0cnVlLCJlbnZpcm9ubWVudE5vTmV0d29yayI6dHJ1ZSwiZW52aXJvbm1lbnQiOiJvZmZsaW5lIiwidW52ZXR0ZWRNZXJjaGFudCI6ZmFsc2UsImJyYWludHJlZUNsaWVudElkIjoibWFzdGVyY2xpZW50MyIsImJpbGxpbmdBZ3JlZW1lbnRzRW5hYmxlZCI6ZmFsc2UsIm1lcmNoYW50QWNjb3VudElkIjoiZUNhcmdvX0ZOQyIsImN1cnJlbmN5SXNvQ29kZSI6IkNBRCJ9LCJtZXJjaGFudElkIjoiamd5eHJoMjIzdDczajIzdCIsInZlbm1vIjoib2ZmIiwibWVyY2hhbnRBY2NvdW50SWQiOiJlQ2FyZ29fRk5DIn0=',
+            false,
+            true,
+            false,
+            false,
+            'https://mono.forevernew.com.au/braintree/checkout/quoteTotal/',
+            'https://mono.forevernew.com.au/braintree/checkout/tokenizeCard/',
+            'https://mono.forevernew.com.au/braintree/checkout/vaultToNonce/'
+        );
+
+                // Pass some data through to the PayPal integration
+        var vzeroPaypal = new vZeroPayPalButton(
+            'eyJ2ZXJzaW9uIjoyLCJhdXRob3JpemF0aW9uRmluZ2VycHJpbnQiOiI5Y2NhMDhjNDE3OWZlMjYwYTEwYzI5Y2UyY2FmNjcyOWI0NDQ3MjBiZGE1MzJmODRhMjcxZTE4Y2UyMjJmMjQyfGNyZWF0ZWRfYXQ9MjAxNy0wOS0xNVQwMTo0MzowOC4xOTczODg5MTMrMDAwMFx1MDAyNm1lcmNoYW50X2FjY291bnRfaWQ9ZUNhcmdvX0ZOQ1x1MDAyNm1lcmNoYW50X2lkPWpneXhyaDIyM3Q3M2oyM3RcdTAwMjZwdWJsaWNfa2V5PWp4YjVkdHFrcXQ0cnlqbnkiLCJjb25maWdVcmwiOiJodHRwczovL2FwaS5zYW5kYm94LmJyYWludHJlZWdhdGV3YXkuY29tOjQ0My9tZXJjaGFudHMvamd5eHJoMjIzdDczajIzdC9jbGllbnRfYXBpL3YxL2NvbmZpZ3VyYXRpb24iLCJjaGFsbGVuZ2VzIjpbImN2diJdLCJlbnZpcm9ubWVudCI6InNhbmRib3giLCJjbGllbnRBcGlVcmwiOiJodHRwczovL2FwaS5zYW5kYm94LmJyYWludHJlZWdhdGV3YXkuY29tOjQ0My9tZXJjaGFudHMvamd5eHJoMjIzdDczajIzdC9jbGllbnRfYXBpIiwiYXNzZXRzVXJsIjoiaHR0cHM6Ly9hc3NldHMuYnJhaW50cmVlZ2F0ZXdheS5jb20iLCJhdXRoVXJsIjoiaHR0cHM6Ly9hdXRoLnZlbm1vLnNhbmRib3guYnJhaW50cmVlZ2F0ZXdheS5jb20iLCJhbmFseXRpY3MiOnsidXJsIjoiaHR0cHM6Ly9jbGllbnQtYW5hbHl0aWNzLnNhbmRib3guYnJhaW50cmVlZ2F0ZXdheS5jb20vamd5eHJoMjIzdDczajIzdCJ9LCJ0aHJlZURTZWN1cmVFbmFibGVkIjp0cnVlLCJwYXlwYWxFbmFibGVkIjp0cnVlLCJwYXlwYWwiOnsiZGlzcGxheU5hbWUiOiJlQ2FyZ28iLCJjbGllbnRJZCI6bnVsbCwicHJpdmFjeVVybCI6Imh0dHA6Ly9leGFtcGxlLmNvbS9wcCIsInVzZXJBZ3JlZW1lbnRVcmwiOiJodHRwOi8vZXhhbXBsZS5jb20vdG9zIiwiYmFzZVVybCI6Imh0dHBzOi8vYXNzZXRzLmJyYWludHJlZWdhdGV3YXkuY29tIiwiYXNzZXRzVXJsIjoiaHR0cHM6Ly9jaGVja291dC5wYXlwYWwuY29tIiwiZGlyZWN0QmFzZVVybCI6bnVsbCwiYWxsb3dIdHRwIjp0cnVlLCJlbnZpcm9ubWVudE5vTmV0d29yayI6dHJ1ZSwiZW52aXJvbm1lbnQiOiJvZmZsaW5lIiwidW52ZXR0ZWRNZXJjaGFudCI6ZmFsc2UsImJyYWludHJlZUNsaWVudElkIjoibWFzdGVyY2xpZW50MyIsImJpbGxpbmdBZ3JlZW1lbnRzRW5hYmxlZCI6ZmFsc2UsIm1lcmNoYW50QWNjb3VudElkIjoiZUNhcmdvX0ZOQyIsImN1cnJlbmN5SXNvQ29kZSI6IkNBRCJ9LCJtZXJjaGFudElkIjoiamd5eHJoMjIzdDczajIzdCIsInZlbm1vIjoib2ZmIiwibWVyY2hhbnRBY2NvdW50SWQiOiJlQ2FyZ29fRk5DIn0=',
+            'Ever New',
+            true,
+            'en_gb',
+            false        );
+        
+        // Init the environment
+        vzero.init();
+
+    }
+
+</script>
+
+<script type="text/html" id="braintree-paypal-button">
+    &lt;button type="button" name="braintree-paypal-button" class="braintree-paypal-button"&gt;
+        &lt;span&gt;
+            &lt;span&gt;
+                Checkout with            &lt;/span&gt;
+        &lt;/span&gt;
+    &lt;/button&gt;
+</script>
+
+<style type="text/css">
+    #braintree-paypal-loggedin {
+        display: none!important;
+    }
+    #braintree-paypal-loggedout {
+        display: block!important;
+    }
+</style>
+        </div>
+    </div>
+</div>
+
+
+<div id="criteo-tags-div" style="display: none;"><iframe height="0" width="0" src="//dis.us.criteo.com/dis/dis.aspx?p=41159&amp;cb=53215255398&amp;ref=https%3A%2F%2Fmono.forevernew.com.au%2Fcustomer%2Faccount%2F&amp;sc_r=1920x1080&amp;sc_d=24" style="display: none;"></iframe></div></body></html>

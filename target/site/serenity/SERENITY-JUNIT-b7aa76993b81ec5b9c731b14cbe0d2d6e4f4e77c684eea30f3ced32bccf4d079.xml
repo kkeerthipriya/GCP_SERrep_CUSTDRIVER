@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Home Page Login" skipped="0" tests="2" time="39.27" timestamp="2017-09-15T11:42:27.839+10:00[Australia/Sydney]"><testcase name="Login"/><testcase name="GiftCard in"><failure message="expected:&lt;...ter a valid email ad[]ress. For example jo...&gt; but was:&lt;...ter a valid email ad[d]ress. For example jo...&gt;" type="java.lang.AssertionError">expected:&lt;...ter a valid email ad[]ress. For example jo...&gt; but was:&lt;...ter a valid email ad[d]ress. For example jo...&gt;</failure><system-err>expected:&lt;...ter a valid email ad[]ress. For example jo...&gt; but was:&lt;...ter a valid email ad[d]ress. For example jo...&gt;&#13;
+com.forever.testautomation.steps.NewGiftCardSteps.enterGiftCardDetails2(NewGiftCardSteps.java:137)&#13;
+com.forever.testautomation.stepdefinitions.GiftCardDefn.i_give_all_giftCard_details2(GiftCardDefn.java:65)&#13;
+✽.And give all the details with invalid email id 'Gift Card CA +$50.00' and '1' and 'Keerthi' and 'k.keerthipriya@gmail'(features/GiftCard.feature:28)&#13;
+</system-err></testcase></testsuite>

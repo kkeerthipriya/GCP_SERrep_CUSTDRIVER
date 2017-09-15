@@ -1,0 +1,22 @@
+-------------------------------------------------------------------------------
+Test set: com.forever.testautomation.RunnerTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 2, Errors: 0, Skipped: 1, Time elapsed: 49.53 sec <<< FAILURE!
+And give all the details with invalid email id 'Gift Card CA +$50.00' and '1' and 'Keerthi' and 'k.keerthipriya@gmail'(| k.keerthipriya@gmail.com | kiran143 | Gift Card CA +$50.00 | 1 | Keerthi | k.keerthipriya@gmail |)  Time elapsed: 0.006 sec  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<...ter a valid email ad[]ress. For example jo...> but was:<...ter a valid email ad[d]ress. For example jo...>
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at com.forever.testautomation.steps.NewGiftCardSteps.enterGiftCardDetails2(NewGiftCardSteps.java:137)
+	at com.forever.testautomation.stepdefinitions.GiftCardDefn.i_give_all_giftCard_details2(GiftCardDefn.java:65)
+	at ?.And give all the details with invalid email id 'Gift Card CA +$50.00' and '1' and 'Keerthi' and 'k.keerthipriya@gmail'(features/GiftCard.feature:28)
+
+| k.keerthipriya@gmail.com | kiran143 | Gift Card CA +$50.00 | 1 | Keerthi | k.keerthipriya@gmail |  Time elapsed: 0.006 sec  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<...ter a valid email ad[]ress. For example jo...> but was:<...ter a valid email ad[d]ress. For example jo...>
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at com.forever.testautomation.steps.NewGiftCardSteps.enterGiftCardDetails2(NewGiftCardSteps.java:137)
+	at com.forever.testautomation.stepdefinitions.GiftCardDefn.i_give_all_giftCard_details2(GiftCardDefn.java:65)
+	at ?.And give all the details with invalid email id 'Gift Card CA +$50.00' and '1' and 'Keerthi' and 'k.keerthipriya@gmail'(features/GiftCard.feature:28)
+
